@@ -513,8 +513,8 @@ section .section-header {
   }
 
   .pilot-portrait {
-    width: 208px;
-    height: 272px;
+    width: 104px;
+    height: 136px;
     object-fit: cover;
   }
 
@@ -683,7 +683,7 @@ section .section-header {
     height: 220px;
     margin-left: 200px;
     margin-top: 200px;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .pilot-header-container {
