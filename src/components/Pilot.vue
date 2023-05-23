@@ -56,7 +56,7 @@ export default {
 					pilot: this.pilot,
 				},
 				class: "TEST",
-				width: 1200,
+				width: 1920,
 			});
 		},
 	}

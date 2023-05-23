@@ -30,7 +30,7 @@
         <Markdown :source="events" class="markdown" />
       </div>
     </section>
-    <section class="section-container" id="pilots" style="width:894px; height:714px;">
+    <section class="section-container" id="pilots" style="width:714px; height:714px;">
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
