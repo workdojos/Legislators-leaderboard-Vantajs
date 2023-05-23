@@ -104,7 +104,7 @@ export default {
           "callsign": "Aaron Bean",
           "alias": "Aaron Bean",
           "code": "Points:  22",
-          "corpro": "Available",
+
           "frame": " Republican",
           "mech": "Florida"
         },
@@ -112,7 +112,7 @@ export default {
           "callsign": "Abigail Spanberger",
           "alias": "Abigail Spanberger",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Virginia"
         },
@@ -120,7 +120,7 @@ export default {
           "callsign": "Adam Schiff",
           "alias": "Adam Schiff",
           "code": "Points:  44",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -128,7 +128,7 @@ export default {
           "callsign": "Adrian Smith",
           "alias": "Adrian Smith",
           "code": "Points:  43",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Nebraska"
         },
@@ -136,7 +136,7 @@ export default {
           "callsign": "Adriano Espaillat",
           "alias": "Adriano Espaillat",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -144,7 +144,7 @@ export default {
           "callsign": "Al Green",
           "alias": "Al Green",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -152,7 +152,7 @@ export default {
           "callsign": "Alexander Mooney",
           "alias": "Alexander Mooney",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "West Virginia"
         },
@@ -160,7 +160,7 @@ export default {
           "callsign": "Alexandria Ocasio-Cortez",
           "alias": "Alexandria Ocasio-Cortez",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -168,7 +168,7 @@ export default {
           "callsign": "Alma Adams",
           "alias": "Alma Adams",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "North Carolina"
         },
@@ -176,7 +176,7 @@ export default {
           "callsign": "Ami Bera",
           "alias": "Ami Bera",
           "code": "Points:  48",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -184,7 +184,7 @@ export default {
           "callsign": "Andre Carson",
           "alias": "André Carson",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Indiana"
         },
@@ -192,7 +192,7 @@ export default {
           "callsign": "Andrea Salinas",
           "alias": "Andrea Salinas",
           "code": "Points:  26",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Oregon"
         },
@@ -200,7 +200,7 @@ export default {
           "callsign": "Andrew Clyde",
           "alias": "Andrew Clyde",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -208,7 +208,7 @@ export default {
           "callsign": "Andrew Garbarino",
           "alias": "Andrew Garbarino",
           "code": "Points:  37",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New York"
         },
@@ -216,7 +216,7 @@ export default {
           "callsign": "Andy Barr",
           "alias": "Andy Barr",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Kentucky"
         },
@@ -224,7 +224,7 @@ export default {
           "callsign": "Andy Biggs",
           "alias": "Andy Biggs",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arizona"
         },
@@ -232,7 +232,7 @@ export default {
           "callsign": "Andy Ogles",
           "alias": "Andy Ogles",
           "code": "Points:  16",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -240,7 +240,7 @@ export default {
           "callsign": "Angie Craig",
           "alias": "Angie Craig",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Minnesota"
         },
@@ -248,7 +248,7 @@ export default {
           "callsign": "Ann Wagner",
           "alias": "Ann Wagner",
           "code": "Points:  16",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Missouri"
         },
@@ -256,7 +256,7 @@ export default {
           "callsign": "Anna Eshoo",
           "alias": "Anna Eshoo",
           "code": "Points:  59",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -264,7 +264,7 @@ export default {
           "callsign": "Anna Paulina Luna",
           "alias": "Anna Paulina Luna",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -272,7 +272,7 @@ export default {
           "callsign": "Annie Kuster",
           "alias": "Annie Kuster",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Hampshire"
         },
@@ -280,7 +280,7 @@ export default {
           "callsign": "Anthony D'Esposito",
           "alias": "Anthony D'Esposito",
           "code": "Points:  31",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New York"
         },
@@ -288,7 +288,7 @@ export default {
           "callsign": "Ashley Hinson",
           "alias": "Ashley Hinson",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Iowa"
         },
@@ -296,7 +296,7 @@ export default {
           "callsign": "August Pfluger",
           "alias": "August Pfluger",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -304,7 +304,7 @@ export default {
           "callsign": "Austin Scott",
           "alias": "Austin Scott",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -312,7 +312,7 @@ export default {
           "callsign": "Ayanna Pressley",
           "alias": "Ayanna Pressley",
           "code": "Points:  50",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -320,7 +320,7 @@ export default {
           "callsign": "Barbara Lee",
           "alias": "Barbara Lee",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -328,7 +328,7 @@ export default {
           "callsign": "Barry Loudermilk",
           "alias": "Barry Loudermilk",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -336,7 +336,7 @@ export default {
           "callsign": "Barry Moore",
           "alias": "Barry Moore",
           "code": "Points:  3",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Alabama"
         },
@@ -344,7 +344,7 @@ export default {
           "callsign": "Becca Balint",
           "alias": "Becca Balint",
           "code": "Points:  22",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Vermont"
         },
@@ -352,7 +352,7 @@ export default {
           "callsign": "Bennie Thompson",
           "alias": "Bennie Thompson",
           "code": "Points:  25",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Mississippi"
         },
@@ -360,7 +360,7 @@ export default {
           "callsign": "Beth Van Duyne",
           "alias": "Beth Van Duyne",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -368,7 +368,7 @@ export default {
           "callsign": "Betty McCollum",
           "alias": "Betty McCollum",
           "code": "Points:  39",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Minnesota"
         },
@@ -376,7 +376,7 @@ export default {
           "callsign": "Bill Foster",
           "alias": "Bill Foster",
           "code": "Points:  22",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -384,7 +384,7 @@ export default {
           "callsign": "Bill Huizenga",
           "alias": "Bill Huizenga",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Michigan"
         },
@@ -392,7 +392,7 @@ export default {
           "callsign": "Bill Johnson",
           "alias": "Bill Johnson",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -400,7 +400,7 @@ export default {
           "callsign": "Bill Keating",
           "alias": "Bill Keating",
           "code": "Points:  41",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -408,7 +408,7 @@ export default {
           "callsign": "Bill Pascrell",
           "alias": "Bill Pascrell",
           "code": "Points:  48",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Jersey"
         },
@@ -416,7 +416,7 @@ export default {
           "callsign": "Bill Posey",
           "alias": "Bill Posey",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -424,7 +424,7 @@ export default {
           "callsign": "Blaine Luetkemeyer",
           "alias": "Blaine Luetkemeyer",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Missouri"
         },
@@ -432,7 +432,7 @@ export default {
           "callsign": "Blake Moore",
           "alias": "Blake Moore",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Utah"
         },
@@ -440,7 +440,7 @@ export default {
           "callsign": "Bob Good",
           "alias": "Bob Good",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Virginia"
         },
@@ -450,7 +450,7 @@ export default {
           "callsign": "Brad Finstad",
           "alias": "Brad Finstad",
           "code": "Points:  32",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Minnesota"
         },
@@ -458,7 +458,7 @@ export default {
           "callsign": "Brad Schneider",
           "alias": "Brad Schneider",
           "code": "Points:  53",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -466,7 +466,7 @@ export default {
           "callsign": "Brad Sherman",
           "alias": "Brad Sherman",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -474,7 +474,7 @@ export default {
           "callsign": "Brad Wenstrup",
           "alias": "Brad Wenstrup",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -482,7 +482,7 @@ export default {
           "callsign": "Brandon Williams",
           "alias": "Brandon Williams",
           "code": "Points:  1",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New York"
         },
@@ -490,7 +490,7 @@ export default {
           "callsign": "Brendan Boyle",
           "alias": "Brendan Boyle",
           "code": "Points:  1",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -498,7 +498,7 @@ export default {
           "callsign": "Brett Guthrie",
           "alias": "Brett Guthrie",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Kentucky"
         },
@@ -506,7 +506,7 @@ export default {
           "callsign": "Brian Babin",
           "alias": "Brian Babin",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -514,7 +514,7 @@ export default {
           "callsign": "Brian Fitzpatrick",
           "alias": "Brian Fitzpatrick",
           "code": "Points:  10",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -522,7 +522,7 @@ export default {
           "callsign": "Brian Higgins",
           "alias": "Brian Higgins",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -530,7 +530,7 @@ export default {
           "callsign": "Brian Mast",
           "alias": "Brian Mast",
           "code": "Points:  20",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -538,7 +538,7 @@ export default {
           "callsign": "Brittany Pettersen",
           "alias": "Brittany Pettersen",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Colorado"
         },
@@ -546,7 +546,7 @@ export default {
           "callsign": "Bruce Westerman",
           "alias": "Bruce Westerman",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arkansas"
         },
@@ -554,7 +554,7 @@ export default {
           "callsign": "Bryan Steil",
           "alias": "Bryan Steil",
           "code": "Points:  46",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wisconsin"
         },
@@ -562,7 +562,7 @@ export default {
           "callsign": "Burgess Owens",
           "alias": "Burgess Owens",
           "code": "Points:  43",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Utah"
         },
@@ -570,7 +570,7 @@ export default {
           "callsign": "Byron Donalds",
           "alias": "Byron Donalds",
           "code": "Points:  35",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -578,7 +578,7 @@ export default {
           "callsign": "Carlos Gimenez",
           "alias": "Carlos Gimenez",
           "code": "Points:  46",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -586,7 +586,7 @@ export default {
           "callsign": "Carol Miller",
           "alias": "Carol Miller",
           "code": "Points:  47",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "West Virginia"
         },
@@ -594,7 +594,7 @@ export default {
           "callsign": "Chellie Pingree",
           "alias": "Chellie Pingree",
           "code": "Points:  12",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maine"
         },
@@ -602,7 +602,7 @@ export default {
           "callsign": "Chip Roy",
           "alias": "Chip Roy",
           "code": "Points:  50",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -610,7 +610,7 @@ export default {
           "callsign": "Chris Pappas",
           "alias": "Chris Pappas",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Hampshire"
         },
@@ -619,7 +619,7 @@ export default {
           "callsign": "Chris Stewart",
           "alias": "Chris Stewart",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Utah"
         },
@@ -627,7 +627,7 @@ export default {
           "callsign": "Chrissy Houlahan",
           "alias": "Chrissy Houlahan",
           "code": "Points:  37",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -635,7 +635,7 @@ export default {
           "callsign": "Chuck Edwards",
           "alias": "Chuck Edwards",
           "code": "Points:  0",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "North Carolina"
         },
@@ -643,7 +643,7 @@ export default {
           "callsign": "Claudia Tenney",
           "alias": "Claudia Tenney",
           "code": "Points:  30",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New York"
         },
@@ -651,7 +651,7 @@ export default {
           "callsign": "Clay Higgins",
           "alias": "Clay Higgins",
           "code": "Points:  9",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Louisiana"
         },
@@ -659,7 +659,7 @@ export default {
           "callsign": "Cliff Bentz",
           "alias": "Cliff Bentz",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oregon"
         },
@@ -667,7 +667,7 @@ export default {
           "callsign": "Colin Allred",
           "alias": "Colin Allred",
           "code": "Points:  59",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -675,7 +675,7 @@ export default {
           "callsign": "Cori Bush",
           "alias": "Cori Bush",
           "code": "Points:  3",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Missouri"
         },
@@ -683,7 +683,7 @@ export default {
           "callsign": "Cory Mills",
           "alias": "Cory Mills",
           "code": "Points:  21",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -692,7 +692,7 @@ export default {
           "callsign": "Dale Strong",
           "alias": "Dale Strong",
           "code": "Points:  10",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Alabama"
         },
@@ -700,7 +700,7 @@ export default {
           "callsign": "Dan Bishop",
           "alias": "Dan Bishop",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "North Carolina"
         },
@@ -708,7 +708,7 @@ export default {
           "callsign": "Dan Kildee",
           "alias": "Dan Kildee",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -716,7 +716,7 @@ export default {
           "callsign": "Dan Meuser",
           "alias": "Dan Meuser",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -724,7 +724,7 @@ export default {
           "callsign": "Dan Newhouse",
           "alias": "Dan Newhouse",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Washington"
         },
@@ -733,7 +733,7 @@ export default {
           "callsign": "Darin LaHood",
           "alias": "Darin LaHood",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Illinois"
         },
@@ -741,7 +741,7 @@ export default {
           "callsign": "Darrell Issa",
           "alias": "Darrell Issa",
           "code": "Points:  7",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -749,7 +749,7 @@ export default {
           "callsign": "Darren Soto",
           "alias": "Darren Soto",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Florida"
         },
@@ -758,7 +758,7 @@ export default {
           "callsign": "David Joyce",
           "alias": "David Joyce",
           "code": "Points:  7",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -766,7 +766,7 @@ export default {
           "callsign": "David Kustoff",
           "alias": "David Kustoff",
           "code": "Points:  1",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -775,7 +775,7 @@ export default {
           "callsign": "David Rouzer",
           "alias": "David Rouzer",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "North Carolina"
         },
@@ -783,7 +783,7 @@ export default {
           "callsign": "David Schweikert",
           "alias": "David Schweikert",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arizona"
         },
@@ -791,7 +791,7 @@ export default {
           "callsign": "David Scott",
           "alias": "David Scott",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Georgia"
         },
@@ -799,7 +799,7 @@ export default {
           "callsign": "David Trone",
           "alias": "David Trone",
           "code": "Points:  26",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -807,7 +807,7 @@ export default {
           "callsign": "Dean Phillips",
           "alias": "Dean Phillips",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Minnesota"
         },
@@ -815,7 +815,7 @@ export default {
           "callsign": "Debbie Dingell",
           "alias": "Debbie Dingell",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -823,7 +823,7 @@ export default {
           "callsign": "Debbie Lesko",
           "alias": "Debbie Lesko",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arizona"
         },
@@ -831,7 +831,7 @@ export default {
           "callsign": "Debbie Wasserman Schultz",
           "alias": "Debbie Wasserman Schultz",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Florida"
         },
@@ -839,7 +839,7 @@ export default {
           "callsign": "Deborah Ross",
           "alias": "Deborah Ross",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "North Carolina"
         },
@@ -847,7 +847,7 @@ export default {
           "callsign": "Delia Ramirez",
           "alias": "Delia Ramirez",
           "code": "Points:  35",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -855,7 +855,7 @@ export default {
           "callsign": "Derek Kilmer",
           "alias": "Derek Kilmer",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Washington"
         },
@@ -863,7 +863,7 @@ export default {
           "callsign": "Derrick Van Orden",
           "alias": "Derrick Van Orden",
           "code": "Points:  12",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wisconsin"
         },
@@ -871,7 +871,7 @@ export default {
           "callsign": "Diana DeGette",
           "alias": "Diana DeGette",
           "code": "Points:  8",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Colorado"
         },
@@ -879,7 +879,7 @@ export default {
           "callsign": "Diana Harshbarger",
           "alias": "Diana Harshbarger",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -887,7 +887,7 @@ export default {
           "callsign": "Dina Titus",
           "alias": "Dina Titus",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Nevada"
         },
@@ -895,7 +895,7 @@ export default {
           "callsign": "Don Bacon",
           "alias": "Don Bacon",
           "code": "Points:  35",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Nebraska"
         },
@@ -904,7 +904,7 @@ export default {
           "callsign": "Donald Norcross",
           "alias": "Donald Norcross",
           "code": "Points:  14",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Jersey"
         },
@@ -912,7 +912,7 @@ export default {
           "callsign": "Donald Payne Jr.",
           "alias": "Donald Payne Jr.",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Jersey"
         },
@@ -921,7 +921,7 @@ export default {
           "callsign": "Doris Matsui",
           "alias": "Doris Matsui",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -929,7 +929,7 @@ export default {
           "callsign": "Doug LaMalfa",
           "alias": "Doug LaMalfa",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -937,7 +937,7 @@ export default {
           "callsign": "Doug Lamborn",
           "alias": "Doug Lamborn",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Colorado"
         },
@@ -945,7 +945,7 @@ export default {
           "callsign": "Drew Ferguson",
           "alias": "Drew Ferguson",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -953,7 +953,7 @@ export default {
           "callsign": "Dutch Ruppersberger",
           "alias": "Dutch Ruppersberger",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -961,7 +961,7 @@ export default {
           "callsign": "Dwight Evans",
           "alias": "Dwight Evans",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -969,7 +969,7 @@ export default {
           "callsign": "Earl Blumenauer",
           "alias": "Earl Blumenauer",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Oregon"
         },
@@ -977,7 +977,7 @@ export default {
           "callsign": "Ed Case",
           "alias": "Ed Case",
           "code": "Points:  47",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Hawaii"
         },
@@ -985,7 +985,7 @@ export default {
           "callsign": "Eli Crane",
           "alias": "Eli Crane",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arizona"
         },
@@ -993,7 +993,7 @@ export default {
           "callsign": "Elise Stefanik",
           "alias": "Elise Stefanik",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New York"
         },
@@ -1001,7 +1001,7 @@ export default {
           "callsign": "Elissa Slotkin",
           "alias": "Elissa Slotkin",
           "code": "Points:  44",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -1009,7 +1009,7 @@ export default {
           "callsign": "Emanuel Cleaver",
           "alias": "Emanuel Cleaver",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Missouri"
         },
@@ -1017,7 +1017,7 @@ export default {
           "callsign": "Emilia Sykes",
           "alias": "Emilia Sykes",
           "code": "Points:  32",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Ohio"
         },
@@ -1025,7 +1025,7 @@ export default {
           "callsign": "Eric Burlison",
           "alias": "Eric Burlison",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Missouri"
         },
@@ -1033,7 +1033,7 @@ export default {
           "callsign": "Eric Sorensen",
           "alias": "Eric Sorensen",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -1041,7 +1041,7 @@ export default {
           "callsign": "Eric Swalwell",
           "alias": "Eric Swalwell",
           "code": "Points:  25",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1049,7 +1049,7 @@ export default {
           "callsign": "Erin Houchin",
           "alias": "Erin Houchin",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -1057,7 +1057,7 @@ export default {
           "callsign": "Frank Lucas",
           "alias": "Frank Lucas",
           "code": "Points:  44",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oklahoma"
         },
@@ -1065,7 +1065,7 @@ export default {
           "callsign": "Frank Mrvan",
           "alias": "Frank Mrvan",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Indiana"
         },
@@ -1073,7 +1073,7 @@ export default {
           "callsign": "French Hill",
           "alias": "French Hill",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arkansas"
         },
@@ -1081,7 +1081,7 @@ export default {
           "callsign": "Gabriel Vasquez",
           "alias": "Gabriel Vasquez",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Mexico"
         },
@@ -1089,7 +1089,7 @@ export default {
           "callsign": "Garret Graves",
           "alias": "Garret Graves",
           "code": "Points:  21",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Louisiana"
         },
@@ -1097,7 +1097,7 @@ export default {
           "callsign": "Gary Palmer",
           "alias": "Gary Palmer",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Alabama"
         },
@@ -1105,7 +1105,7 @@ export default {
           "callsign": "Glenn Grothman",
           "alias": "Glenn Grothman",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wisconsin"
         },
@@ -1113,7 +1113,7 @@ export default {
           "callsign": "Glenn Ivey",
           "alias": "Glenn Ivey",
           "code": "Points:  39",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -1121,7 +1121,7 @@ export default {
           "callsign": "Glenn Thompson",
           "alias": "Glenn Thompson",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -1129,7 +1129,7 @@ export default {
           "callsign": "Grace Meng",
           "alias": "Grace Meng",
           "code": "Points:  21",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -1137,7 +1137,7 @@ export default {
           "callsign": "Grace Napolitano",
           "alias": "Grace Napolitano",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1145,7 +1145,7 @@ export default {
           "callsign": "Greg Casar",
           "alias": "Greg Casar",
           "code": "Points:  54",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -1153,7 +1153,7 @@ export default {
           "callsign": "Greg Landsman",
           "alias": "Greg Landsman",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Ohio"
         },
@@ -1161,7 +1161,7 @@ export default {
           "callsign": "Greg Pence",
           "alias": "Greg Pence",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -1169,7 +1169,7 @@ export default {
           "callsign": "Greg Stanton",
           "alias": "Greg Stanton",
           "code": "Points:  15",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Arizona"
         },
@@ -1177,7 +1177,7 @@ export default {
           "callsign": "Greg Steube",
           "alias": "Greg Steube",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -1185,7 +1185,7 @@ export default {
           "callsign": "Guy Reschenthaler",
           "alias": "Guy Reschenthaler",
           "code": "Points:  10",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -1193,7 +1193,7 @@ export default {
           "callsign": "Gwen Moore",
           "alias": "Gwen Moore",
           "code": "Points:  32",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Wisconsin"
         },
@@ -1201,7 +1201,7 @@ export default {
           "callsign": "Hakeem Jeffries",
           "alias": "Hakeem Jeffries",
           "code": "Points:  47",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -1209,7 +1209,7 @@ export default {
           "callsign": "Hal Rogers",
           "alias": "Hal Rogers",
           "code": "Points:  25",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Kentucky"
         },
@@ -1217,7 +1217,7 @@ export default {
           "callsign": "Haley Stevens",
           "alias": "Haley Stevens",
           "code": "Points:  47",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -1225,7 +1225,7 @@ export default {
           "callsign": "Hank Johnson",
           "alias": "Hank Johnson",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Georgia"
         },
@@ -1233,7 +1233,7 @@ export default {
           "callsign": "Harriet Hageman",
           "alias": "Harriet Hageman",
           "code": "Points:  54",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wyoming"
         },
@@ -1241,7 +1241,7 @@ export default {
           "callsign": "Henry Cuellar",
           "alias": "Henry Cuellar",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -1249,7 +1249,7 @@ export default {
           "callsign": "Hillary Scholten",
           "alias": "Hillary Scholten",
           "code": "Points:  26",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -1257,7 +1257,7 @@ export default {
           "callsign": "Ilhan Omar",
           "alias": "Ilhan Omar",
           "code": "Points:  22",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Minnesota"
         },
@@ -1265,7 +1265,7 @@ export default {
           "callsign": "Jack Bergman",
           "alias": "Jack Bergman",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Michigan"
         },
@@ -1273,7 +1273,7 @@ export default {
           "callsign": "Jahana Hayes",
           "alias": "Jahana Hayes",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Connecticut"
         },
@@ -1281,7 +1281,7 @@ export default {
           "callsign": "Jake Auchincloss",
           "alias": "Jake Auchincloss",
           "code": "Points:  52",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -1289,7 +1289,7 @@ export default {
           "callsign": "Jake Ellzey",
           "alias": "Jake Ellzey",
           "code": "Points:  9",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -1297,7 +1297,7 @@ export default {
           "callsign": "Jamaal Bowman",
           "alias": "Jamaal Bowman",
           "code": "Points:  49",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -1305,7 +1305,7 @@ export default {
           "callsign": "James Clyburn",
           "alias": "James Clyburn",
           "code": "Points:  15",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "South Carolina"
         },
@@ -1313,7 +1313,7 @@ export default {
           "callsign": "Jamie Raskin",
           "alias": "Jamie Raskin",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -1321,7 +1321,7 @@ export default {
           "callsign": "Jan Schakowsky",
           "alias": "Jan Schakowsky",
           "code": "Points:  3",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -1329,7 +1329,7 @@ export default {
           "callsign": "Jared Golden",
           "alias": "Jared Golden",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maine"
         },
@@ -1337,7 +1337,7 @@ export default {
           "callsign": "Jared Huffman",
           "alias": "Jared Huffman",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1345,7 +1345,7 @@ export default {
           "callsign": "Jasmine Crockett",
           "alias": "Jasmine Crockett",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -1353,7 +1353,7 @@ export default {
           "callsign": "Jason Crow",
           "alias": "Jason Crow",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Colorado"
         },
@@ -1361,7 +1361,7 @@ export default {
           "callsign": "Jason Smith",
           "alias": "Jason Smith",
           "code": "Points:  0",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Missouri"
         },
@@ -1369,7 +1369,7 @@ export default {
           "callsign": "Jay Obernolte",
           "alias": "Jay Obernolte",
           "code": "Points:  14",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -1377,7 +1377,7 @@ export default {
           "callsign": "Jeff Duncan",
           "alias": "Jeff Duncan",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "South Carolina"
         },
@@ -1385,7 +1385,7 @@ export default {
           "callsign": "Jeff Jackson",
           "alias": "Jeff Jackson",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "North Carolina"
         },
@@ -1393,7 +1393,7 @@ export default {
           "callsign": "Jeff Van Drew",
           "alias": "Jeff Van Drew",
           "code": "Points:  39",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New Jersey"
         },
@@ -1401,7 +1401,7 @@ export default {
           "callsign": "Jennifer Kiggans",
           "alias": "Jennifer Kiggans",
           "code": "Points:  12",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Virginia"
         },
@@ -1409,7 +1409,7 @@ export default {
           "callsign": "Jennifer McClellan",
           "alias": "Jennifer McClellan",
           "code": "Points:  48",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Virginia"
         },
@@ -1417,7 +1417,7 @@ export default {
           "callsign": "Jennifer Wexton",
           "alias": "Jennifer Wexton",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Virginia"
         },
@@ -1425,7 +1425,7 @@ export default {
           "callsign": "Jerrold Nadler",
           "alias": "Jerrold Nadler",
           "code": "Points:  16",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -1433,7 +1433,7 @@ export default {
           "callsign": "Jerry Carl",
           "alias": "Jerry Carl",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Alabama"
         },
@@ -1441,7 +1441,7 @@ export default {
           "callsign": "Jill Tokuda",
           "alias": "Jill Tokuda",
           "code": "Points:  48",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Hawaii"
         },
@@ -1449,7 +1449,7 @@ export default {
           "callsign": "Jim Baird",
           "alias": "Jim Baird",
           "code": "Points:  37",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -1457,7 +1457,7 @@ export default {
           "callsign": "Jim Banks",
           "alias": "Jim Banks",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -1465,7 +1465,7 @@ export default {
           "callsign": "Jim Costa",
           "alias": "Jim Costa",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1473,7 +1473,7 @@ export default {
           "callsign": "Jim Himes",
           "alias": "Jim Himes",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Connecticut"
         },
@@ -1481,7 +1481,7 @@ export default {
           "callsign": "Jim Jordan",
           "alias": "Jim Jordan",
           "code": "Points:  3",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -1489,7 +1489,7 @@ export default {
           "callsign": "Jim McGovern",
           "alias": "Jim McGovern",
           "code": "Points:  52",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -1497,7 +1497,7 @@ export default {
           "callsign": "Jimmy Gomez",
           "alias": "Jimmy Gomez",
           "code": "Points:  10",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1505,7 +1505,7 @@ export default {
           "callsign": "Jimmy Panetta",
           "alias": "Jimmy Panetta",
           "code": "Points:  7",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1513,7 +1513,7 @@ export default {
           "callsign": "Joaquin Castro",
           "alias": "Joaquin Castro",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -1521,7 +1521,7 @@ export default {
           "callsign": "Jodey Arrington",
           "alias": "Jodey Arrington",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -1529,7 +1529,7 @@ export default {
           "callsign": "Joe Courtney",
           "alias": "Joe Courtney",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Connecticut"
         },
@@ -1537,7 +1537,7 @@ export default {
           "callsign": "Joe Neguse",
           "alias": "Joe Neguse",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Colorado"
         },
@@ -1545,7 +1545,7 @@ export default {
           "callsign": "Joe Wilson",
           "alias": "Joe Wilson",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "South Carolina"
         },
@@ -1553,7 +1553,7 @@ export default {
           "callsign": "John Carter",
           "alias": "John Carter",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -1561,7 +1561,7 @@ export default {
           "callsign": "John Curtis",
           "alias": "John Curtis",
           "code": "Points:  52",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Utah"
         },
@@ -1569,7 +1569,7 @@ export default {
           "callsign": "John Duarte",
           "alias": "John Duarte",
           "code": "Points:  52",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -1577,7 +1577,7 @@ export default {
           "callsign": "John Garamendi",
           "alias": "John Garamendi",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1585,7 +1585,7 @@ export default {
           "callsign": "John James",
           "alias": "John James",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Michigan"
         },
@@ -1593,7 +1593,7 @@ export default {
           "callsign": "John Joyce",
           "alias": "John Joyce",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -1601,7 +1601,7 @@ export default {
           "callsign": "John Larson",
           "alias": "John Larson",
           "code": "Points:  1",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Connecticut"
         },
@@ -1609,7 +1609,7 @@ export default {
           "callsign": "John Moolenaar",
           "alias": "John Moolenaar",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Michigan"
         },
@@ -1617,7 +1617,7 @@ export default {
           "callsign": "John Rose",
           "alias": "John Rose",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -1625,7 +1625,7 @@ export default {
           "callsign": "John Rutherford",
           "alias": "John Rutherford",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -1633,7 +1633,7 @@ export default {
           "callsign": "John Sarbanes",
           "alias": "John Sarbanes",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -1641,7 +1641,7 @@ export default {
           "callsign": "Jonathan Jackson",
           "alias": "Jonathan Jackson",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -1649,7 +1649,7 @@ export default {
           "callsign": "Josh Brecheen",
           "alias": "Josh Brecheen",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oklahoma"
         },
@@ -1657,7 +1657,7 @@ export default {
           "callsign": "Josh Gottheimer",
           "alias": "Josh Gottheimer",
           "code": "Points:  35",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Jersey"
         },
@@ -1665,7 +1665,7 @@ export default {
           "callsign": "Josh Harder",
           "alias": "Josh Harder",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1673,7 +1673,7 @@ export default {
           "callsign": "Joyce Beatty",
           "alias": "Joyce Beatty",
           "code": "Points:  26",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Ohio"
         },
@@ -1681,7 +1681,7 @@ export default {
           "callsign": "Juan Ciscomani",
           "alias": "Juan Ciscomani",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arizona"
         },
@@ -1689,7 +1689,7 @@ export default {
           "callsign": "Juan Vargas",
           "alias": "Juan Vargas",
           "code": "Points:  52",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1697,7 +1697,7 @@ export default {
           "callsign": "Judy Chu",
           "alias": "Judy Chu",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1705,7 +1705,7 @@ export default {
           "callsign": "Julia Brownley",
           "alias": "Julia Brownley",
           "code": "Points:  14",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1713,7 +1713,7 @@ export default {
           "callsign": "Julia Letlow",
           "alias": "Julia Letlow",
           "code": "Points:  7",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Louisiana"
         },
@@ -1721,7 +1721,7 @@ export default {
           "callsign": "Kat Cammack",
           "alias": "Kat Cammack",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -1729,7 +1729,7 @@ export default {
           "callsign": "Katherine Clark",
           "alias": "Katherine Clark",
           "code": "Points:  44",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -1737,7 +1737,7 @@ export default {
           "callsign": "Kathy Castor",
           "alias": "Kathy Castor",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Florida"
         },
@@ -1745,7 +1745,7 @@ export default {
           "callsign": "Kathy Manning",
           "alias": "Kathy Manning",
           "code": "Points:  0",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "North Carolina"
         },
@@ -1753,7 +1753,7 @@ export default {
           "callsign": "Katie Porter",
           "alias": "Katie Porter",
           "code": "Points:  10",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1761,7 +1761,7 @@ export default {
           "callsign": "Kay Granger",
           "alias": "Kay Granger",
           "code": "Points:  47",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -1769,7 +1769,7 @@ export default {
           "callsign": "Keith Self",
           "alias": "Keith Self",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -1777,7 +1777,7 @@ export default {
           "callsign": "Kelly Armstrong",
           "alias": "Kelly Armstrong",
           "code": "Points:  25",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "North Dakota"
         },
@@ -1785,7 +1785,7 @@ export default {
           "callsign": "Ken Buck",
           "alias": "Ken Buck",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Colorado"
         },
@@ -1793,7 +1793,7 @@ export default {
           "callsign": "Ken Calvert",
           "alias": "Ken Calvert",
           "code": "Points:  48",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -1801,7 +1801,7 @@ export default {
           "callsign": "Kevin Hern",
           "alias": "Kevin Hern",
           "code": "Points:  32",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oklahoma"
         },
@@ -1809,7 +1809,7 @@ export default {
           "callsign": "Kevin Kiley",
           "alias": "Kevin Kiley",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -1817,7 +1817,7 @@ export default {
           "callsign": "Kevin McCarthy",
           "alias": "Kevin McCarthy",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -1825,7 +1825,7 @@ export default {
           "callsign": "Kevin Mullin",
           "alias": "Kevin Mullin",
           "code": "Points:  20",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1833,7 +1833,7 @@ export default {
           "callsign": "Kim Schrier",
           "alias": "Kim Schrier",
           "code": "Points:  40",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Washington"
         },
@@ -1841,7 +1841,7 @@ export default {
           "callsign": "Kweisi Mfume",
           "alias": "Kweisi Mfume",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -1849,7 +1849,7 @@ export default {
           "callsign": "Lance Gooden",
           "alias": "Lance Gooden",
           "code": "Points:  21",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -1857,7 +1857,7 @@ export default {
           "callsign": "Larry Bucshon",
           "alias": "Larry Bucshon",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -1865,7 +1865,7 @@ export default {
           "callsign": "Laurel Lee",
           "alias": "Laurel Lee",
           "code": "Points:  41",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -1873,7 +1873,7 @@ export default {
           "callsign": "Lauren Boebert",
           "alias": "Lauren Boebert",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Colorado"
         },
@@ -1881,7 +1881,7 @@ export default {
           "callsign": "Lauren Underwood",
           "alias": "Lauren Underwood",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -1889,7 +1889,7 @@ export default {
           "callsign": "Lisa Blunt Rochester",
           "alias": "Lisa Blunt Rochester",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Delaware"
         },
@@ -1897,7 +1897,7 @@ export default {
           "callsign": "Lisa McClain",
           "alias": "Lisa McClain",
           "code": "Points:  14",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Michigan"
         },
@@ -1905,7 +1905,7 @@ export default {
           "callsign": "Lloyd Doggett",
           "alias": "Lloyd Doggett",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -1913,7 +1913,7 @@ export default {
           "callsign": "Lloyd Smucker",
           "alias": "Lloyd Smucker",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -1921,7 +1921,7 @@ export default {
           "callsign": "Lois Frankel",
           "alias": "Lois Frankel",
           "code": "Points:  12",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Florida"
         },
@@ -1929,7 +1929,7 @@ export default {
           "callsign": "Lori Chavez-DeRemer",
           "alias": "Lori Chavez-DeRemer",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oregon"
         },
@@ -1937,7 +1937,7 @@ export default {
           "callsign": "Lori Trahan",
           "alias": "Lori Trahan",
           "code": "Points:  26",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -1945,7 +1945,7 @@ export default {
           "callsign": "Lou Correa",
           "alias": "Lou Correa",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -1953,7 +1953,7 @@ export default {
           "callsign": "Lucy McBath",
           "alias": "Lucy McBath",
           "code": "Points:  41",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Georgia"
         },
@@ -1961,7 +1961,7 @@ export default {
           "callsign": "Madeleine Dean",
           "alias": "Madeleine Dean",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -1969,7 +1969,7 @@ export default {
           "callsign": "Marc Veasey",
           "alias": "Marc Veasey",
           "code": "Points:  40",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -1977,7 +1977,7 @@ export default {
           "callsign": "Marcy Kaptur",
           "alias": "Marcy Kaptur",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Ohio"
         },
@@ -1985,7 +1985,7 @@ export default {
           "callsign": "Maria Elvira Salazar",
           "alias": "Maria Elvira Salazar",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -1993,7 +1993,7 @@ export default {
           "callsign": "Mariannette Miller-Meeks",
           "alias": "Mariannette Miller-Meeks",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Iowa"
         },
@@ -2001,7 +2001,7 @@ export default {
           "callsign": "Marilyn Strickland",
           "alias": "Marilyn Strickland",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Washington"
         },
@@ -2009,7 +2009,7 @@ export default {
           "callsign": "Mario Diaz-Balart",
           "alias": "Mario Diaz-Balart",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -2017,7 +2017,7 @@ export default {
           "callsign": "Marjorie Taylor Greene",
           "alias": "Marjorie Taylor Greene",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -2025,7 +2025,7 @@ export default {
           "callsign": "Mark Alford",
           "alias": "Mark Alford",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Missouri"
         },
@@ -2033,7 +2033,7 @@ export default {
           "callsign": "Mark Amodei",
           "alias": "Mark Amodei",
           "code": "Points:  30",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Nevada"
         },
@@ -2041,7 +2041,7 @@ export default {
           "callsign": "Mark Green",
           "alias": "Mark Green",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -2049,7 +2049,7 @@ export default {
           "callsign": "Mark Pocan",
           "alias": "Mark Pocan",
           "code": "Points:  22",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Wisconsin"
         },
@@ -2057,7 +2057,7 @@ export default {
           "callsign": "Mark Takano",
           "alias": "Mark Takano",
           "code": "Points:  37",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2065,7 +2065,7 @@ export default {
           "callsign": "Mary Miller",
           "alias": "Mary Miller",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Illinois"
         },
@@ -2073,7 +2073,7 @@ export default {
           "callsign": "Mary Peltola",
           "alias": "Mary Peltola",
           "code": "Points:  15",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Alaska"
         },
@@ -2081,7 +2081,7 @@ export default {
           "callsign": "Matt Cartwright",
           "alias": "Matt Cartwright",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -2089,7 +2089,7 @@ export default {
           "callsign": "Matt Gaetz",
           "alias": "Matt Gaetz",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -2097,7 +2097,7 @@ export default {
           "callsign": "Matt Rosendale",
           "alias": "Matt Rosendale",
           "code": "Points:  20",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Montana"
         },
@@ -2105,7 +2105,7 @@ export default {
           "callsign": "Max Miller",
           "alias": "Max Miller",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -2113,7 +2113,7 @@ export default {
           "callsign": "Maxine Waters",
           "alias": "Maxine Waters",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2121,7 +2121,7 @@ export default {
           "callsign": "Michael Cloud",
           "alias": "Michael Cloud",
           "code": "Points:  10",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2129,7 +2129,7 @@ export default {
           "callsign": "Michael Guest",
           "alias": "Michael Guest",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Mississippi"
         },
@@ -2137,7 +2137,7 @@ export default {
           "callsign": "Michael McCaul",
           "alias": "Michael McCaul",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2145,7 +2145,7 @@ export default {
           "callsign": "Michael Turner",
           "alias": "Michael Turner",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -2153,7 +2153,7 @@ export default {
           "callsign": "Michael Waltz",
           "alias": "Michael Waltz",
           "code": "Points:  58",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -2161,7 +2161,7 @@ export default {
           "callsign": "Michelle Fischbach",
           "alias": "Michelle Fischbach",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Minnesota"
         },
@@ -2169,7 +2169,7 @@ export default {
           "callsign": "Michelle Steel",
           "alias": "Michelle Steel",
           "code": "Points:  15",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -2177,7 +2177,7 @@ export default {
           "callsign": "Mike Bost",
           "alias": "Mike Bost",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Illinois"
         },
@@ -2185,7 +2185,7 @@ export default {
           "callsign": "Mike Carey",
           "alias": "Mike Carey",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -2193,7 +2193,7 @@ export default {
           "callsign": "Mike Collins",
           "alias": "Mike Collins",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -2201,7 +2201,7 @@ export default {
           "callsign": "Mike Ezell",
           "alias": "Mike Ezell",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Mississippi"
         },
@@ -2209,7 +2209,7 @@ export default {
           "callsign": "Mike Flood",
           "alias": "Mike Flood",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Nebraska"
         },
@@ -2217,7 +2217,7 @@ export default {
           "callsign": "Mike Gallagher",
           "alias": "Mike Gallagher",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wisconsin"
         },
@@ -2225,7 +2225,7 @@ export default {
           "callsign": "Mike Garcia",
           "alias": "Mike Garcia",
           "code": "Points:  59",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -2233,7 +2233,7 @@ export default {
           "callsign": "Mike Johnson",
           "alias": "Mike Johnson",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Louisiana"
         },
@@ -2241,7 +2241,7 @@ export default {
           "callsign": "Mike Kelly",
           "alias": "Mike Kelly",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -2249,7 +2249,7 @@ export default {
           "callsign": "Mike Levin",
           "alias": "Mike Levin",
           "code": "Points:  7",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2257,7 +2257,7 @@ export default {
           "callsign": "Mike Quigley",
           "alias": "Mike Quigley",
           "code": "Points:  32",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -2265,7 +2265,7 @@ export default {
           "callsign": "Mike Rogers",
           "alias": "Mike Rogers",
           "code": "Points:  35",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Alabama"
         },
@@ -2273,7 +2273,7 @@ export default {
           "callsign": "Mike Thompson",
           "alias": "Mike Thompson",
           "code": "Points:  31",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2281,7 +2281,7 @@ export default {
           "callsign": "Mikie Sherrill",
           "alias": "Mikie Sherrill",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Jersey"
         },
@@ -2289,7 +2289,7 @@ export default {
           "callsign": "Monica De La Cruz",
           "alias": "Monica De La Cruz",
           "code": "Points:  32",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2297,7 +2297,7 @@ export default {
           "callsign": "Morgan Luttrell",
           "alias": "Morgan Luttrell",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2305,7 +2305,7 @@ export default {
           "callsign": "Morgan McGarvey",
           "alias": "Morgan McGarvey",
           "code": "Points:  27",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Kentucky"
         },
@@ -2313,7 +2313,7 @@ export default {
           "callsign": "Nancy Mace",
           "alias": "Nancy Mace",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "South Carolina"
         },
@@ -2321,7 +2321,7 @@ export default {
           "callsign": "Nancy Pelosi",
           "alias": "Nancy Pelosi",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2329,7 +2329,7 @@ export default {
           "callsign": "Nanette Barragán",
           "alias": "Nanette Barragán",
           "code": "Points:  50",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2337,7 +2337,7 @@ export default {
           "callsign": "Nathaniel Moran",
           "alias": "Nathaniel Moran",
           "code": "Points:  50",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2345,7 +2345,7 @@ export default {
           "callsign": "Neal Dunn",
           "alias": "Neal Dunn",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -2353,7 +2353,7 @@ export default {
           "callsign": "Nicole Malliotakis",
           "alias": "Nicole Malliotakis",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "New York"
         },
@@ -2361,7 +2361,7 @@ export default {
           "callsign": "Nikema Williams",
           "alias": "Nikema Williams",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Georgia"
         },
@@ -2369,7 +2369,7 @@ export default {
           "callsign": "Nikki Budzinski",
           "alias": "Nikki Budzinski",
           "code": "Points:  14",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -2377,7 +2377,7 @@ export default {
           "callsign": "Norma Torres",
           "alias": "Norma Torres",
           "code": "Points:  17",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2385,7 +2385,7 @@ export default {
           "callsign": "Pat Fallon",
           "alias": "Pat Fallon",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2393,7 +2393,7 @@ export default {
           "callsign": "Pat Ryan",
           "alias": "Pat Ryan",
           "code": "Points:  8",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -2401,7 +2401,7 @@ export default {
           "callsign": "Paul Gosar",
           "alias": "Paul Gosar",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arizona"
         },
@@ -2409,7 +2409,7 @@ export default {
           "callsign": "Paul Tonko",
           "alias": "Paul Tonko",
           "code": "Points:  52",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -2417,7 +2417,7 @@ export default {
           "callsign": "Pete Aguilar",
           "alias": "Pete Aguilar",
           "code": "Points:  15",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2425,7 +2425,7 @@ export default {
           "callsign": "Pete Sessions",
           "alias": "Pete Sessions",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2433,7 +2433,7 @@ export default {
           "callsign": "Pete Stauber",
           "alias": "Pete Stauber",
           "code": "Points:  26",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Minnesota"
         },
@@ -2441,7 +2441,7 @@ export default {
           "callsign": "Pramila Jayapal",
           "alias": "Pramila Jayapal",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Washington"
         },
@@ -2449,7 +2449,7 @@ export default {
           "callsign": "Raja Krishnamoorthi",
           "alias": "Raja Krishnamoorthi",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -2457,7 +2457,7 @@ export default {
           "callsign": "Ralph Norman",
           "alias": "Ralph Norman",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "South Carolina"
         },
@@ -2465,7 +2465,7 @@ export default {
           "callsign": "Randy Feenstra",
           "alias": "Randy Feenstra",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Iowa"
         },
@@ -2473,7 +2473,7 @@ export default {
           "callsign": "Randy Weber",
           "alias": "Randy Weber",
           "code": "Points:  3",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2481,7 +2481,7 @@ export default {
           "callsign": "Rashida Tlaib",
           "alias": "Rashida Tlaib",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -2489,7 +2489,7 @@ export default {
           "callsign": "Raul Ruiz",
           "alias": "Raul Ruiz",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2497,7 +2497,7 @@ export default {
           "callsign": "Rich McCormick",
           "alias": "Rich McCormick",
           "code": "Points:  42",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -2505,7 +2505,7 @@ export default {
           "callsign": "Richard Hudson",
           "alias": "Richard Hudson",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "North Carolina"
         },
@@ -2513,7 +2513,7 @@ export default {
           "callsign": "Richard Neal",
           "alias": "Richard Neal",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -2521,7 +2521,7 @@ export default {
           "callsign": "Rick Allen",
           "alias": "Rick Allen",
           "code": "Points:  43",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Georgia"
         },
@@ -2529,7 +2529,7 @@ export default {
           "callsign": "Rick Crawford",
           "alias": "Rick Crawford",
           "code": "Points:  20",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arkansas"
         },
@@ -2537,7 +2537,7 @@ export default {
           "callsign": "Rick Larsen",
           "alias": "Rick Larsen",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Washington"
         },
@@ -2545,7 +2545,7 @@ export default {
           "callsign": "Ritchie Torres",
           "alias": "Ritchie Torres",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New York"
         },
@@ -2553,7 +2553,7 @@ export default {
           "callsign": "Ro Khanna",
           "alias": "Ro Khanna",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2561,7 +2561,7 @@ export default {
           "callsign": "Robert Aderholt",
           "alias": "Robert Aderholt",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Alabama"
         },
@@ -2569,7 +2569,7 @@ export default {
           "callsign": "Robert Garcia",
           "alias": "Robert Garcia",
           "code": "Points:  21",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2577,7 +2577,7 @@ export default {
           "callsign": "Robin Kelly",
           "alias": "Robin Kelly",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Illinois"
         },
@@ -2585,7 +2585,7 @@ export default {
           "callsign": "Roger Williams",
           "alias": "Roger Williams",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2593,7 +2593,7 @@ export default {
           "callsign": "Ron Estes",
           "alias": "Ron Estes",
           "code": "Points:  28",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Kansas"
         },
@@ -2601,7 +2601,7 @@ export default {
           "callsign": "Ruben Gallego",
           "alias": "Ruben Gallego",
           "code": "Points:  16",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Arizona"
         },
@@ -2609,7 +2609,7 @@ export default {
           "callsign": "Rudy Yakym",
           "alias": "Rudy Yakym",
           "code": "Points:  13",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -2617,7 +2617,7 @@ export default {
           "callsign": "Russ Fulcher",
           "alias": "Russ Fulcher",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Idaho"
         },
@@ -2625,7 +2625,7 @@ export default {
           "callsign": "Russell Fry",
           "alias": "Russell Fry",
           "code": "Points:  36",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "South Carolina"
         },
@@ -2633,7 +2633,7 @@ export default {
           "callsign": "Ryan Zinke",
           "alias": "Ryan Zinke",
           "code": "Points:  41",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Montana"
         },
@@ -2641,7 +2641,7 @@ export default {
           "callsign": "Salud Carbajal",
           "alias": "Salud Carbajal",
           "code": "Points:  34",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2649,7 +2649,7 @@ export default {
           "callsign": "Sam Graves",
           "alias": "Sam Graves",
           "code": "Points:  39",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Missouri"
         },
@@ -2657,7 +2657,7 @@ export default {
           "callsign": "Sara Jacobs",
           "alias": "Sara Jacobs",
           "code": "Points:  43",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2665,7 +2665,7 @@ export default {
           "callsign": "Scott DesJarlais",
           "alias": "Scott DesJarlais",
           "code": "Points:  35",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -2673,7 +2673,7 @@ export default {
           "callsign": "Scott Fitzgerald",
           "alias": "Scott Fitzgerald",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wisconsin"
         },
@@ -2681,7 +2681,7 @@ export default {
           "callsign": "Scott Franklin",
           "alias": "Scott Franklin",
           "code": "Points:  8",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -2689,7 +2689,7 @@ export default {
           "callsign": "Scott Perry",
           "alias": "Scott Perry",
           "code": "Points:  44",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Pennsylvania"
         },
@@ -2697,7 +2697,7 @@ export default {
           "callsign": "Scott Peters",
           "alias": "Scott Peters",
           "code": "Points:  13",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2705,7 +2705,7 @@ export default {
           "callsign": "Seth Magaziner",
           "alias": "Seth Magaziner",
           "code": "Points:  55",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Rhode Island"
         },
@@ -2713,7 +2713,7 @@ export default {
           "callsign": "Seth Moulton",
           "alias": "Seth Moulton",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -2721,7 +2721,7 @@ export default {
           "callsign": "Sharice Davids",
           "alias": "Sharice Davids",
           "code": "Points:  23",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Kansas"
         },
@@ -2729,7 +2729,7 @@ export default {
           "callsign": "Sheila Cherfilus-McCormick",
           "alias": "Sheila Cherfilus-McCormick",
           "code": "Points:  59",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Florida"
         },
@@ -2737,7 +2737,7 @@ export default {
           "callsign": "Sheila Jackson Lee",
           "alias": "Sheila Jackson Lee",
           "code": "Points:  39",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -2745,7 +2745,7 @@ export default {
           "callsign": "Shontel Brown",
           "alias": "Shontel Brown",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Ohio"
         },
@@ -2753,7 +2753,7 @@ export default {
           "callsign": "Shri Thanedar",
           "alias": "Shri Thanedar",
           "code": "Points:  13",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Michigan"
         },
@@ -2761,7 +2761,7 @@ export default {
           "callsign": "Stacey Plaskett",
           "alias": "Stacey Plaskett",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Virgin Islands"
         },
@@ -2769,7 +2769,7 @@ export default {
           "callsign": "Steny Hoyer",
           "alias": "Steny Hoyer",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Maryland"
         },
@@ -2777,7 +2777,7 @@ export default {
           "callsign": "Stephanie Bice",
           "alias": "Stephanie Bice",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oklahoma"
         },
@@ -2785,7 +2785,7 @@ export default {
           "callsign": "Stephen Lynch",
           "alias": "Stephen Lynch",
           "code": "Points:  19",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Massachusetts"
         },
@@ -2793,7 +2793,7 @@ export default {
           "callsign": "Steve Cohen",
           "alias": "Steve Cohen",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Tennessee"
         },
@@ -2801,7 +2801,7 @@ export default {
           "callsign": "Steve Scalise",
           "alias": "Steve Scalise",
           "code": "Points:  0",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Louisiana"
         },
@@ -2809,7 +2809,7 @@ export default {
           "callsign": "Steve Womack",
           "alias": "Steve Womack",
           "code": "Points:  54",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Arkansas"
         },
@@ -2817,7 +2817,7 @@ export default {
           "callsign": "Steven Horsford",
           "alias": "Steven Horsford",
           "code": "Points:  8",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Nevada"
         },
@@ -2825,7 +2825,7 @@ export default {
           "callsign": "Summer Lee",
           "alias": "Summer Lee",
           "code": "Points:  25",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -2833,7 +2833,7 @@ export default {
           "callsign": "Susan Wild",
           "alias": "Susan Wild",
           "code": "Points:  2",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Pennsylvania"
         },
@@ -2841,7 +2841,7 @@ export default {
           "callsign": "Susie Lee",
           "alias": "Susie Lee",
           "code": "Points:  49",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Nevada"
         },
@@ -2849,7 +2849,7 @@ export default {
           "callsign": "Suzan DelBene",
           "alias": "Suzan DelBene",
           "code": "Points:  4",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Washington"
         },
@@ -2857,7 +2857,7 @@ export default {
           "callsign": "Suzanne Bonamici",
           "alias": "Suzanne Bonamici",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Oregon"
         },
@@ -2865,7 +2865,7 @@ export default {
           "callsign": "Sylvia Garcia",
           "alias": "Sylvia Garcia",
           "code": "Points:  54",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -2873,7 +2873,7 @@ export default {
           "callsign": "Ted Lieu",
           "alias": "Ted Lieu",
           "code": "Points:  54",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2881,7 +2881,7 @@ export default {
           "callsign": "Teresa Leger Fernandez",
           "alias": "Teresa Leger Fernandez",
           "code": "Points:  12",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "New Mexico"
         },
@@ -2889,7 +2889,7 @@ export default {
           "callsign": "Terri Sewell",
           "alias": "Terri Sewell",
           "code": "Points:  1",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Alabama"
         },
@@ -2897,7 +2897,7 @@ export default {
           "callsign": "Thomas Massie",
           "alias": "Thomas Massie",
           "code": "Points:  24",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Kentucky"
         },
@@ -2905,7 +2905,7 @@ export default {
           "callsign": "Tim Burchett",
           "alias": "Tim Burchett",
           "code": "Points:  18",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Tennessee"
         },
@@ -2913,7 +2913,7 @@ export default {
           "callsign": "Tim Walberg",
           "alias": "Tim Walberg",
           "code": "Points:  30",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Michigan"
         },
@@ -2921,7 +2921,7 @@ export default {
           "callsign": "Tom Cole",
           "alias": "Tom Cole",
           "code": "Points:  45",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Oklahoma"
         },
@@ -2929,7 +2929,7 @@ export default {
           "callsign": "Tom Emmer",
           "alias": "Tom Emmer",
           "code": "Points:  6",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Minnesota"
         },
@@ -2937,7 +2937,7 @@ export default {
           "callsign": "Tom McClintock",
           "alias": "Tom McClintock",
           "code": "Points:  5",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -2945,7 +2945,7 @@ export default {
           "callsign": "Tom Tiffany",
           "alias": "Tom Tiffany",
           "code": "Points:  56",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Wisconsin"
         },
@@ -2953,7 +2953,7 @@ export default {
           "callsign": "Tony Cárdenas",
           "alias": "Tony Cárdenas",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
@@ -2961,7 +2961,7 @@ export default {
           "callsign": "Tony Gonzales",
           "alias": "Tony Gonzales",
           "code": "Points:  48",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -2969,7 +2969,7 @@ export default {
           "callsign": "Tracey Mann",
           "alias": "Tracey Mann",
           "code": "Points:  11",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Kansas"
         },
@@ -2977,7 +2977,7 @@ export default {
           "callsign": "Trent Kelly",
           "alias": "Trent Kelly",
           "code": "Points:  7",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Mississippi"
         },
@@ -2985,7 +2985,7 @@ export default {
           "callsign": "Troy Balderson",
           "alias": "Troy Balderson",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -2993,7 +2993,7 @@ export default {
           "callsign": "Troy Carter",
           "alias": "Troy Carter",
           "code": "Points:  33",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Louisiana"
         },
@@ -3001,7 +3001,7 @@ export default {
           "callsign": "Troy Nehls",
           "alias": "Troy Nehls",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Texas"
         },
@@ -3009,7 +3009,7 @@ export default {
           "callsign": "Val Hoyle",
           "alias": "Val Hoyle",
           "code": "Points:  46",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Oregon"
         },
@@ -3017,7 +3017,7 @@ export default {
           "callsign": "Valerie Foushee",
           "alias": "Valerie Foushee",
           "code": "Points:  39",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "North Carolina"
         },
@@ -3025,7 +3025,7 @@ export default {
           "callsign": "Vern Buchanan",
           "alias": "Vern Buchanan",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Florida"
         },
@@ -3033,7 +3033,7 @@ export default {
           "callsign": "Veronica Escobar",
           "alias": "Veronica Escobar",
           "code": "Points:  57",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Texas"
         },
@@ -3041,7 +3041,7 @@ export default {
           "callsign": "Victoria Spartz",
           "alias": "Victoria Spartz",
           "code": "Points:  53",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Indiana"
         },
@@ -3049,7 +3049,7 @@ export default {
           "callsign": "Virginia Foxx",
           "alias": "Virginia Foxx",
           "code": "Points:  29",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "North Carolina"
         },
@@ -3057,7 +3057,7 @@ export default {
           "callsign": "Warren Davidson",
           "alias": "Warren Davidson",
           "code": "Points:  38",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "Ohio"
         },
@@ -3065,7 +3065,7 @@ export default {
           "callsign": "Wiley Nickel",
           "alias": "Wiley Nickel",
           "code": "Points:  25",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "North Carolina"
         },
@@ -3073,7 +3073,7 @@ export default {
           "callsign": "William Timmons",
           "alias": "William Timmons",
           "code": "Points:  51",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "South Carolina"
         },
@@ -3081,7 +3081,7 @@ export default {
           "callsign": "Yadira Caraveo",
           "alias": "Yadira Caraveo",
           "code": "Points:  50",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "Colorado"
         },
@@ -3089,7 +3089,7 @@ export default {
           "callsign": "Young Kim",
           "alias": "Young Kim",
           "code": "Points:  12",
-          "corpro": "Available",
+
           "frame": "Republican",
           "mech": "California"
         },
@@ -3097,7 +3097,7 @@ export default {
           "callsign": "Zoe Lofgren",
           "alias": "Zoe Lofgren",
           "code": "Points:  53",
-          "corpro": "Available",
+
           "frame": "Democrat",
           "mech": "California"
         },
