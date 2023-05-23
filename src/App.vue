@@ -102,23 +102,6 @@ export default {
       "pilots": [
 
         {
-          "callsign": "Aaron",
-          "alias": "Aaron Bean",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Republican ",
-          "mech": "Florida"
-        },
-{
-          "callsign": "Abigail",
-          "alias": "Abigail Spanberger",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Democratic ",
-          "mech": "Virginia"
-        },
-
-{
           "callsign": "Aaron Bean",
           "alias": "Aaron Bean,
 
@@ -3640,7 +3623,7 @@ export default {
           "frame": "Democratic",
           "mech": "California"
         },
-        {
+        
 
  
 
