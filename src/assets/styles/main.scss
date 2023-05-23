@@ -515,13 +515,13 @@ section .section-header {
   .pilot-portrait {
     width: 104px;
     height: 136px;
-    object-fit: cover;
+    object-fit: contained;
   }
 
   .mech-portrait {
     width: 104px;
     height: 136px;
-    object-fit: cover;
+    object-fit: contained;
   }
 
   h1 {
