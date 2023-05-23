@@ -909,15 +909,6 @@ export default {
           "mech": "New Jersey"
         },
         {
-          "callsign": "Donald Payne Jr.",
-          "alias": "Donald Payne Jr.",
-          "code": "Points:  18",
-
-          "frame": "Democrat",
-          "mech": "New Jersey"
-        },
-
-        {
           "callsign": "Doris Matsui",
           "alias": "Doris Matsui",
           "code": "Points:  33",
@@ -1156,14 +1147,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "Ohio"
-        },
-        {
-          "callsign": "Greg Pence",
-          "alias": "Greg Pence",
-          "code": "Points:  11",
-
-          "frame": "Republican",
-          "mech": "Indiana"
         },
         {
           "callsign": "Greg Stanton",
@@ -1950,14 +1933,6 @@ export default {
           "mech": "California"
         },
         {
-          "callsign": "Lucy McBath",
-          "alias": "Lucy McBath",
-          "code": "Points:  41",
-
-          "frame": "Democrat",
-          "mech": "Georgia"
-        },
-        {
           "callsign": "Madeleine Dean",
           "alias": "Madeleine Dean",
           "code": "Points:  51",
@@ -1980,14 +1955,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "Ohio"
-        },
-        {
-          "callsign": "Maria Elvira Salazar",
-          "alias": "Maria Elvira Salazar",
-          "code": "Points:  2",
-
-          "frame": "Republican",
-          "mech": "Florida"
         },
         {
           "callsign": "Mariannette Miller-Meeks",
@@ -2140,14 +2107,6 @@ export default {
 
           "frame": "Republican",
           "mech": "Texas"
-        },
-        {
-          "callsign": "Michael Turner",
-          "alias": "Michael Turner",
-          "code": "Points:  55",
-
-          "frame": "Republican",
-          "mech": "Ohio"
         },
         {
           "callsign": "Michael Waltz",
@@ -2876,15 +2835,7 @@ export default {
 
           "frame": "Democrat",
           "mech": "California"
-        },
-        {
-          "callsign": "Teresa Leger Fernandez",
-          "alias": "Teresa Leger Fernandez",
-          "code": "Points:  12",
-
-          "frame": "Democrat",
-          "mech": "New Mexico"
-        },
+        },0
         {
           "callsign": "Terri Sewell",
           "alias": "Terri Sewell",
