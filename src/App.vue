@@ -101,8 +101,8 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": " Aaron Bean",
-          "alias": " Aaron Bean",
+          "callsign": "Aaron Bean",
+          "alias": "Aaron Bean",
           "code": "Points:  22",
           "corpro": "Available",
           "frame": " Republican",
