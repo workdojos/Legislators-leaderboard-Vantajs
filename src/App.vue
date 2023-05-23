@@ -118,19 +118,16 @@ export default {
           "mech": "Virginia"
         },
         {
-          "callsign": "Zach Nunn",
-          "alias": "Zach Nunn,
-          "corpro": "",
-          "frame": "Republican ",
-          "mech": "Iowa"
-        },
-        {
           "callsign": "Zoe Lofgren",
           "alias": "Zoe Lofgren,
-          "corpro": "",
+
+          “code”: "Points:  27,
+
+          “corpro”: "Available",
           "frame": "Democratic",
           "mech": "California"
         },
+
         {
           "callsign": "Compadre",
           "alias": 'Clint "CC" Cruz',
