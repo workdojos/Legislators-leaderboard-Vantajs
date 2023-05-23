@@ -106,7 +106,7 @@ export default {
           "code": "Points:  22",
           "corpro": "Available",
           "frame": " Republican",
-          "mech": " Florida"
+          "mech": "Florida"
         },
         {
           "callsign": "Abigail Spanberger",
@@ -2395,7 +2395,7 @@ export default {
           "code": "Points:  8",
           "corpro": "Available",
           "frame": "Democrat",
-          "mech": "New"
+          "mech": "New York"
         },
         {
           "callsign": "Paul Gosar",
