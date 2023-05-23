@@ -1,0 +1,12 @@
+Bobby Scott is a member of the United States House of Representatives representing Virginia's 3rd Congressional District. He was first elected to Congress in 1993 and has since become a leading advocate for civil rights, education, and workforce development. Here are some interesting facts and figures about Bobby Scott:
+
+- Bobby Scott was born in Washington, D.C. and raised in Newport News, Virginia. He graduated from Harvard Law School and served as an assistant attorney general for Virginia before being elected to Congress.
+- As a congressman, Scott has been a strong advocate for education and workforce development. He helped author the 2014 Workforce Innovation and Opportunity Act which aimed to improve the alignment of workforce development programs with the needs of employers.
+- Bobby Scott is also a staunch supporter of civil rights and criminal justice reform. He introduced the Safe, Accountable, Fair, and Effective (SAFE) Justice Act in 2015 which aimed to reduce mandatory minimum sentences for non-violent drug offenses and increase funding for rehabilitation programs.
+- In 2019, Scott became the chairman of the House Committee on Education and Labor, where he has pushed for legislation that addresses college affordability, childcare, and workplace safety.
+- Bobby Scott's voting record shows that he is a strong supporter of the Affordable Care Act and has consistently voted against efforts to repeal or weaken the law.
+- In recent years, Scott has been vocal about the need to address gun violence in America. He introduced the Gun Violence Prevention and Community Safety Act in 2019 which aims to strengthen background checks, regulate assault weapons, and provide funding for community violence intervention programs.
+
+While Bobby Scott has been praised for his advocacy on civil rights, education, and workforce development, he has also faced criticism for his involvement in the controversial 1994 Crime Bill, which has been blamed for disproportionally impacting communities of color. Additionally, some have criticized his support for the Trans-Pacific Partnership trade agreement, which opponents argue would have hurt American workers.
+
+In terms of future elections, it will be important to closely examine where Bobby Scott stands on issues such as healthcare, education, criminal justice reform, and gun control as these topics will likely continue to be important to voters.

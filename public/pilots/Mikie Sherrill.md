@@ -1,0 +1,13 @@
+Mikie Sherrill is an American politician and former United States Navy pilot who currently serves as the U.S. Representative for New Jersey's 11th congressional district. She was first elected to this position in the 2018 midterm elections, becoming one of the record-number of women who ran and won in that year's elections.
+
+Sherrill's political career began in 2017, when she announced her candidacy for the U.S. House of Representatives. Her campaign attracted national attention due to her background as a former Navy helicopter pilot and federal prosecutor, as well as her status as a political outsider with no prior political experience.
+
+Sherrill won the Democratic nomination for the 11th congressional district in June 2018, and went on to defeat her Republican opponent, Assemblyman Jay Webber, in the November general election. Since taking office in January 2019, she has earned a reputation as a pragmatic and bipartisan lawmaker, working across the aisle to pass bills that benefit her constituents.
+
+One of Sherrill's key accomplishments in Congress has been her work on healthcare policy. She has been a strong advocate for expanding access to affordable healthcare, and has worked to protect coverage for individuals with pre-existing conditions. She has also introduced several pieces of legislation aimed at reducing prescription drug costs, which is a major concern for many Americans.
+
+In addition to healthcare, Sherrill has been a vocal proponent of environmental protections and has advocated for policies that combat climate change. As a representative from New Jersey, she is particularly passionate about protecting the state's natural resources and has fought to secure funding for environmental programs in her district.
+
+However, Sherrill has also faced controversy during her time in office. In 2020, she was criticized for attending a private meeting in which participants discussed overturning the results of the presidential election, despite there being no evidence of widespread voter fraud. Sherrill condemned the actions of those who participated in the meeting and called for an investigation into their behavior.
+
+In conclusion, Mikie Sherrill is a politician with a diverse background and a strong commitment to serving her constituents. While she has faced controversy during her time in office, she has also achieved notable successes in areas such as healthcare and the environment. As prospective voters consider their options in future elections, they would do well to examine Sherrill's platform and record, and to consider both her accomplishments and controversies.

@@ -1,0 +1,14 @@
+Kevin Hern, a Republican member of the United States House of Representatives representing Oklahoma's 1st congressional district since 2018, has made a name for himself in the political arena with his conservative beliefs and his successful business career. Here are some interesting facts, figures, quotes, and anecdotes related to his political career:
+
+- Kevin Hern is a successful businessman, having founded and owned multiple McDonald's franchises. In fact, he is considered one of the largest owner/operators of McDonald's franchises in the world, with over 30 locations across Oklahoma and Arkansas.
+- Hern is a strong supporter of small businesses, having been a small business owner himself for many years. He has expressed his belief that small businesses are the backbone of the American economy.
+- In his first term in Congress, Hern served on the Small Business Committee, the Budget Committee, and the Science, Space, and Technology Committee.
+- During his time in Congress, Hern has been a staunch supporter of President Trump's policies. He has consistently voted in line with the President's agenda, including on issues such as tax reform and immigration.
+- Hern is known for his conservative beliefs, having been endorsed by the conservative Club for Growth and the National Rifle Association during his campaigns.
+- However, Hern has also shown a willingness to work across the aisle. He has co-sponsored bills with Democratic members of Congress on issues such as small business relief during the COVID-19 pandemic and funding for natural disaster relief.
+- One of Hern's notable accomplishments in Congress was the introduction of the Taxpayer Protection Amendment, which would require Congress to balance the federal budget each year or face pay cuts.
+- Hern has also been involved in controversy during his time in Congress. In 2019, he was criticized for his attendance record at committee hearings, with some opponents claiming he was skipping out on his responsibilities. Hern defended himself by saying he was focusing on constituent services and traveling throughout his district instead.
+- On major issues, Hern has taken a firm stance on topics such as the pro-life movement, Second Amendment rights, and national defense. He has advocated for increased funding for the military, and for reducing government spending.
+- Hern has also been a vocal critic of the Affordable Care Act, also known as Obamacare. He has expressed his belief that the government should not be involved in healthcare, and has called for free-market solutions to healthcare reform.
+
+As Hern begins his second term in Congress, it will be interesting to see how he continues to balance his conservative beliefs with a willingness to work across the aisle. With his business background and strong support for small businesses, he may continue to play a key role in shaping economic policy in the coming years.

@@ -1,0 +1,11 @@
+Pete Sessions is a Republican politician and former member of the United States House of Representatives, representing Texas' 32nd Congressional District from 2003 to 2019. His career as an elected official stretches back to the 1980s, when he was first elected to the Texas House of Representatives at just 37 years old.
+
+Sessions was considered a strong conservative during his time in Congress, and was a close ally of then-House Majority Leader Tom DeLay. He was a vocal opponent of the Affordable Care Act (ACA) and called for its repeal numerous times throughout his tenure in Congress. Sessions was a member of the House Committee on Rules and was known for his ability to negotiate deals and work across the aisle to pass legislation.
+
+One of Sessions' notable achievements during his time in Congress was his role in passing the JOBS Act of 2012, which aimed to encourage the growth of small businesses and increase access to capital for startup companies. He was also a strong supporter of Israel and often spoke out in defense of the country's policies and actions.
+
+However, Sessions' career was not without controversy. In 2018, he faced a tough reelection campaign and was accused of running a negative and misleading ad campaign against his opponent, Democrat Colin Allred, that was filled with falsehoods. Sessions was also criticized for his ties to the pharmaceutical industry and for allegedly taking large sums of money from opioid manufacturers while failing to take action to address the opioid epidemic.
+
+On major issues, Sessions holds conservative positions on immigration, gun rights, and healthcare. He supports increased border security and opposes amnesty for undocumented immigrants. He is a strong supporter of the Second Amendment and opposes any new gun control measures. Sessions vehemently opposed the ACA and has supported efforts to repeal and replace it.
+
+In summary, Pete Sessions is a veteran politician with a strong track record of conservative accomplishments and close ties to the Republican establishment. While he has faced some controversy during his career, he maintains a loyal base of supporters who appreciate his staunch defense of conservative principles.

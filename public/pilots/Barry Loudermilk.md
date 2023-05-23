@@ -1,0 +1,13 @@
+Barry Loudermilk is a Republican member of the United States House of Representatives, representing Georgia's 11th congressional district. He was first elected in 2014 and has since won re-election three times. Here are some facts, figures, quotes, and anecdotes related to Barry Loudermilk:
+
+- According to GovTrack.us, which tracks the voting records of members of Congress, Loudermilk is one of the most conservative members of the House, with a score of 96.2 out of 100 on their ideological spectrum.
+- Loudermilk is a member of the House Committee on Transportation and Infrastructure, as well as the House Committee on Science, Space, and Technology.
+- He has been a strong supporter of President Trump, voting with the President's position on legislation over 90% of the time.
+- In 2017, Loudermilk introduced the Student Security Act which would allow teachers and school staff to carry guns in order to protect students from potential school shootings. He argued that the current gun-free zones in schools make students vulnerable to attacks.
+- Loudermilk is a member of the Freedom Caucus, a group of the most conservative members of the House who often push for strict adherence to conservative principles.
+- He has been criticized for his comments on climate change, stating that it is not a settled science and that global temperatures are not dramatically rising. He has also compared the scientific evidence for climate change to that of the theory of a flat earth.
+- According to the Atlanta Journal-Constitution, Loudermilk has been a strong advocate for Georgia's military bases, which contribute over $20 billion to the state's economy. He has fought against potential base closures and advocated for increased funding for military projects in the state.
+- In response to the 2020 COVID-19 pandemic, Loudermilk signed a letter with other Georgia Republicans urging the state's governor to reopen the economy as soon as possible. He argued that the economic harm caused by the shutdowns outweighed the potential risks of the virus.
+- Loudermilk has been known to quote the Bible extensively on the House floor, stating that it is my plumb line for the decisions I make while serving in Congress.
+
+These are some of the interesting facts and figures related to Barry Loudermilk's career in Congress. He has been a strong conservative voice for Georgia's 11th district, advocating for limited government, a strong military, and traditional values. While he has been criticized for his views on climate change and his response to the COVID-19 pandemic, he has also been praised for his advocacy for his state's military bases and for his faith-based approach to policymaking.

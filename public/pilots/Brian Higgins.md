@@ -1,0 +1,13 @@
+Brian Higgins is a well-known figure in American politics, having served as a Member of Congress in the House of Representatives since 2005. As a long-time resident of Western New York, he has built a solid reputation as a champion for the local community, particularly in the areas of economic development and infrastructure.
+
+One of Higgins' most notable achievements was his advocacy for the Buffalo Niagara Medical Campus, a major hub for medical research and technology that has brought thousands of jobs and millions of dollars in investment to the region. He was also instrumental in securing funding for the Buffalo and Erie County Naval and Military Park, a popular tourist destination that celebrates the area's rich military history.
+
+On the national stage, Higgins has been a vocal advocate for healthcare reform, environmental protections, and infrastructure investments. He has also been a vocal critic of President Trump, calling for an investigation into possible collusion with Russia during the 2016 campaign and introducing legislation to protect the independence of the Special Counsel's investigation.
+
+However, Higgins has also faced controversy during his time in office. In 2018, he was criticized for his handling of allegations of workplace harassment by a former staffer, leading to calls for his resignation. Higgins apologized for his actions and pledged to do better in the future.
+
+Despite this controversy, Higgins remains a popular and influential figure in the Democratic Party, with many in the party seeing him as a potential candidate for higher office in the future. As of 2021, he is a member of the powerful House Ways and Means Committee, which oversees taxation and revenue policy in the United States.
+
+In terms of policy positions, Higgins is generally considered to be a progressive Democrat with a focus on economic and social justice issues. He has been a vocal supporter of the Affordable Care Act and has called for a Medicare for All system to provide universal healthcare coverage. On environmental issues, he has advocated for investment in renewable energy and protection of public lands. In terms of economic policy, he has called for increased investment in infrastructure and job training programs to create good-paying jobs for all Americans.
+
+I want to be remembered for the quality of life I help create for people, Higgins once said, summing up his priorities as a politician. Whether you agree with his policy positions or not, it is clear that he is a passionate advocate for his constituents and a skilled political operator with a long career ahead of him.

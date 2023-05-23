@@ -1,0 +1,13 @@
+Larry Bucshon is a Republican member of the United States House of Representatives from the 8th District of Indiana. He was first elected to Congress in 2010 and is currently serving his sixth term. Bucshon is a cardiovascular surgeon by profession and brings his expertise to the House Committee on Energy and Commerce, where he serves as the Vice Chairman of the Subcommittee on Health.
+
+Bucshon has been a vocal opponent of the Affordable Care Act and has actively worked to repeal and replace it with a market-based system. He has advocated for expanding access to healthcare for veterans and increasing funding for medical research. He also supports a balanced budget amendment to the Constitution and has been a proponent of cutting government spending.
+
+Bucshon's record on social issues has been mixed. While he has consistently voted against abortion rights, he has also supported the Employment Non-Discrimination Act, which would prohibit discrimination based on sexual orientation in the workplace. He has also stated that he supports stem cell research and believes that it can be done ethically.
+
+In 2018, Bucshon faced criticism for his vote in favor of the Tax Cuts and Jobs Act, which many argued would primarily benefit the wealthy at the expense of working-class Americans. However, he defended his vote, stating that the bill would create jobs and stimulate economic growth.
+
+Bucshon's experience as a surgeon has undoubtedly shaped his politics. He has been a strong advocate for reforming Medicare and Medicaid, arguing that these programs are in dire need of modernization. He has also been a vocal opponent of efforts to increase government regulation in the healthcare industry, arguing that this would stifle innovation and harm patients.
+
+Despite his controversial voting record, Bucshon has received praise for his commitment to public service. He has been described as a thoughtful and principled politician who is genuinely concerned with the well-being of his constituents. As one of the few doctors in Congress, Bucshon brings a unique perspective to policy debates surrounding healthcare and is often sought out by his colleagues for advice on healthcare-related legislation.
+
+In conclusion, Larry Bucshon is a seasoned politician with a wealth of experience in the healthcare industry. While he has been a polarizing figure on issues like healthcare reform and tax policy, he has consistently prioritized the well-being of his constituents. As he continues to serve in Congress, he will undoubtedly play an important role in shaping the future of healthcare policy in the United States.

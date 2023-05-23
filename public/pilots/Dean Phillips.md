@@ -1,0 +1,9 @@
+Dean Phillips is a well-known politician and member of Congress that has been serving Minnesota's third district since January 2019. Phillips was born in Minnesota and grew up in an extremely successful family business that manufactured Phillips Vodka. Following his graduation from Brown University, Phillips went on to create several successful businesses including Talenti Gelato and Phillips Distilling Company.
+
+Phillips is known for being a passionate advocate for important issues such as campaign finance reform, gun control, and climate change. In his first year in office, Phillips was instrumental in getting a bill passed in Congress that aimed to restore the full implementation of the Voting Rights Act. He was also an outspoken supporter of the impeachment proceedings against former President Donald Trump.
+
+In terms of his stance on climate change, Phillips has been a strong advocate for policies that aim to reduce carbon emissions. He has also been a vocal supporter of investing in renewable energy technologies, such as wind and solar power. Phillips recently co-sponsored a bill that aims to transition the United States to a 100% clean energy economy by 2050.
+
+While Phillips is a progressive politician, his support for certain policies has also drawn criticism from some constituents. For example, his efforts to restrict the use of dark money in political campaigns have been met with pushback from some who believe that such restrictions could infringe upon free speech rights.
+
+Overall, Dean Phillips is a dedicated public servant who has demonstrated a strong commitment to serving his constituents and advocating for important issues. His business acumen and passion for public service make him a unique and interesting figure in politics, and his efforts to promote transparency and accountability in government are invaluable to the democratic process.

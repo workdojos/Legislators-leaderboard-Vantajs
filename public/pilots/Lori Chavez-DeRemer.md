@@ -1,0 +1,11 @@
+Lori Chavez-DeRemer is a Republican politician who served as Mayor of Happy Valley, Oregon from 2009 to 2020. She was also a member of the Oregon House of Representatives from 2015 to 2017, serving as the Republican House Leader in her final year. Chavez-DeRemer is now running for Congress in Oregon's 1st Congressional District.
+
+One of Chavez-DeRemer's notable achievements as Mayor of Happy Valley was boosting economic development in the city. According to a report by Portland Business Journal, the city's taxable retail sales went from $35 million in 2009 to $400 million in 2019. Chavez-DeRemer also worked to improve public safety, expand transportation options, and prioritize fiscal responsibility during her time as Mayor.
+
+In the Oregon House of Representatives, Chavez-DeRemer focused on issues related to education and workforce development. She supported expanding access to vocational and technical education, promoting apprenticeships, and improving funding for K-12 schools. Chavez-DeRemer also introduced legislation to help streamline the process for small businesses to access capital and start-up funds.
+
+On major national issues, Lori Chavez-DeRemer stands firmly with the Republican Party's platform. She has expressed support for former President Donald Trump and his policies, including his stance on immigration and opposition to abortion. Chavez-DeRemer has also been vocal about her support for gun rights and the Second Amendment.
+
+Notably, in 2016, Chavez-DeRemer made national headlines when she narrowly survived an assassination attempt while driving home from a campaign event. She was unharmed in the incident, but the shooter was never caught.
+
+In conclusion, Lori Chavez-DeRemer is a seasoned political veteran with a strong track record of accomplishments in economic development, public safety, and education. While she has faced controversy in the past for her political stances, she remains a popular figure among Oregon Republicans for her strong stance on conservative issues. As she campaigns for Congress, voters will have to weigh her past achievements and controversies and decide whether they believe she would be an effective representative for their district.

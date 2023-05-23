@@ -1,0 +1,11 @@
+Harriet Hageman is a Republican politician and lawyer from Wyoming who has recently announced her candidacy for the United States Senate. Hageman has a long history of political involvement in Wyoming, having run for Governor in 2018 and serving as a State Representative for four years in the 1990s. 
+
+One of Hageman's notable achievements is her role in the lawsuit that eventually lead to the removal of wolves from the endangered species list in Wyoming. As an attorney, she represented a group of ranchers in their legal challenge against the decision to classify wolves as endangered, arguing that ranchers were suffering significant economic losses due to the wolves' impact on their livestock. Her victory in this case helped to establish a greater degree of control over wildlife management in the state.
+
+Hageman is known for her conservative views on a number of issues, particularly those related to gun rights, immigration, and energy policy. She has expressed support for measures to expand fossil fuel extraction in Wyoming, arguing that the state's energy resources are vital to its economy. Additionally, she has been a vocal opponent of the Affordable Care Act, calling for its repeal and replacement with a market-based system.
+
+Despite her accomplishments, Hageman has also faced some controversies over the course of her career. In the past, she has been criticized for her association with anti-immigrant groups and her support for controversial figures such as former Maricopa County Sheriff Joe Arpaio. Additionally, her campaign in the 2018 gubernatorial race was derailed by allegations of ethical violations related to her work as an attorney.
+
+Interestingly, Hageman has also been known to quote Ronald Reagan, often using his words to highlight her own conservative views. One of her favorite quotes from the former president is, Government's first duty is to protect the people, not run their lives.
+
+As Hageman gears up for the 2022 election, she is sure to be a candidate to watch. Her experience in politics and law, combined with her conservative views and impressive legal victories, will make her a formidable contender in the race for Wyoming's Senate seat.

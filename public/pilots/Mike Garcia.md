@@ -1,0 +1,15 @@
+Mike Garcia is a former naval aviator and businessman who currently serves as the Republican representative for California's 25th congressional district. Garcia made headlines in May 2020 when he won a special election in the predominantly Democratic district to replace former Democrat representative Katie Hill, becoming the first Republican elected to represent the district in over two decades.
+
+Before entering politics, Garcia flew Apache helicopters during the Gulf War and served in the military for over 20 years, earning numerous awards for his service. After retiring from the military, Garcia went on to work in the private sector, where he helped lead a company that provided unmanned aerial vehicles for military and civilian applications.
+
+Since his election, Garcia has been a vocal advocate for small businesses and has worked to reduce government regulations that he feels stifle economic growth. He has also been a staunch supporter of law enforcement and has spoken out against calls to defund the police.
+
+On the issue of immigration, Garcia has called for border security measures, including a physical border wall and increased staffing for border patrol agents. He has also advocated for more resources to be allocated towards processing asylum claims and increasing the number of visas available for high-skilled workers.
+
+Garcia's tenure in office has not been without controversy, however. In June 2020, he was criticized for attending a fundraiser in Texas during the COVID-19 pandemic, where he was photographed without a mask and not practicing social distancing. He later apologized for his actions.
+
+Despite the controversy, Garcia remains a popular figure among his supporters, who see him as a refreshing change from the typical Washington politician. In a speech given after his election, Garcia remarked that he felt a calling to serve this great nation again and that he intended to do so with integrity, honor, and with a heart of a lion.
+
+As of 2021, Garcia has been appointed as the Ranking Member of the House Subcommittee on Oversight, Management, and Accountability (OMA), which deals with oversight of the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), Cybersecurity and Infrastructure Security Agency (CISA), and Office of Management and Budget (OMB). This appointment holds significant responsibility as the subcommittee provides congressional oversight on matters such as Government Accountability Office (GAO) reports and the implementation of laws affecting DHS, ICE, CISA, and OMB, which deals with the federal budget. 
+
+In conclusion, Mike Garcia is a political veteran with extensive experience in both the military and private sector. He has been at the forefront of issues such as small business support, law enforcement, and border security. Though not without controversy, he remains popular among his constituents and will likely continue to be a major figure in California politics in the years to come.

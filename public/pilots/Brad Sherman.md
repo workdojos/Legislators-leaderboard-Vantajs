@@ -1,0 +1,11 @@
+Brad Sherman is a Democratic member of the United States House of Representatives representing California's 30th congressional district, a seat he has held since 2013. In his nearly two decades in Congress, Sherman has distinguished himself as a tireless advocate for his constituents and a champion of progressive causes.
+
+One of Sherman's most notable achievements was his leadership in the fight to reform the financial industry following the 2008 economic crisis. He was a key architect of the Dodd-Frank Act, which imposed new regulations on banks and other financial institutions to prevent another catastrophic meltdown. According to Sherman, The goal of Dodd-Frank was to make sure that we never have a repeat of the financial crisis of 2008, where taxpayers were on the hook for billions of dollars to bail out unscrupulous lenders.
+
+Beyond financial reform, Sherman has advocated for a range of policies aimed at promoting economic justice and environmental sustainability. He has been a vocal proponent of raising the minimum wage, investing in clean energy, and protecting Social Security and Medicare.
+
+However, Sherman has also faced criticism for his sometimes abrasive and confrontational style, particularly in his dealings with other members of Congress. In 2018, he made headlines for yelling at Democratic colleagues during a closed-door meeting on immigration policy. While some have praised his willingness to speak truth to power, others have argued that his aggressive approach undermines his effectiveness as a lawmaker.
+
+When it comes to major issues that may be of interest in future elections, Sherman has taken strong positions on a variety of topics. He supports comprehensive immigration reform, including a pathway to citizenship for undocumented immigrants. He also supports stricter gun control measures, such as universal background checks and a ban on assault weapons.
+
+Overall, Brad Sherman is a seasoned politician with a track record of effective leadership and a commitment to progressive values. While his confrontational style may turn some voters off, his accomplishments in the realm of financial reform and his principled stances on issues that matter to many Americans make him a compelling candidate for reelection.

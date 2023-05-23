@@ -1,0 +1,11 @@
+Norma Torres is a member of the United States House of Representatives, serving as the representative for California's 35th congressional district. She occupies a very interesting position in Congress as she was born in Guatemala and is one of a few Latinas within the Democratic Party from Southern California.
+
+Torres is a leader when it comes to standing up for vulnerable communities. She has been very outspoken on key issues like immigration reform, gun violence prevention, women's rights, and environmental protection. As Chair of the Homeland Security Committee's Subcommittee on Emergency Preparedness, Response and Recovery, Norma Torres has been working hard on making sure our communities are safe and prepared for any disaster.
+
+Norma Torres is also known for her work fighting for transparency in politics. She co-sponsored legislation in the House to require presidential candidates to release their tax returns ahead of elections.
+
+Torres has also drawn attention to the devastating effects of poverty and inequality, co-sponsoring legislation in the House to increase the minimum wage and provide healthcare for all. She serves on the powerful Appropriations Committee, where she helps ensure that the government spends money wisely and fairly for everyday Americans.
+
+During her time in Congress, Norma Torres has served as a voice for her constituents by fighting for their rights and representing their interests in Washington. Some of her most notable achievements include increasing affordable housing and investing in education to give all students a chance to succeed. She has also been a fierce advocate for women, carrying out important work on gender equality and standing up against sexual harassment in the workplace.
+
+In closing, Norma Torres is a dedicated public servant who's worked hard to serve the needs of her constituents. However, despite her many achievements and impressive record, she is not without controversies. In recent years, Torres has been criticized by some for her position on certain issues, particularly on the topic of immigration. Nonetheless, her commitment to fighting for the rights of minorities and those often marginalized by society is undoubtedly praiseworthy. Consequently, she remains an important figure in California politics and continues to be a key voice in shaping the future of our country.

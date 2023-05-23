@@ -1,0 +1,13 @@
+Frank Mrvan, a Democrat hailing from Indiana's 1st congressional district, has been serving in the United States House of Representatives since 2021. Mrvan is widely regarded as someone who deeply cares about his community and constituents, and his political record reflects this.
+
+One notable example of Mrvan's dedication to his constituents is his work securing a $38 million grant for the Gary/Chicago International Airport, which is located in his district. This grant helped to create jobs and improve local infrastructure, making it easier for people in the region to access the global marketplace.
+
+Mrvan is also known for his work on health care policy. He has advocated for expanding Medicaid and improving access to affordable health care, which has earned him praise from many of his constituents who have struggled to pay for necessary medical treatments. In addition, Mrvan has spoken out in support of policies that would lower the cost of prescription drugs.
+
+Another issue that Mrvan has taken on is the need to improve infrastructure in his district. He has called for increased funding for highways, bridges, and other critical pieces of infrastructure, recognizing that these investments are essential for both economic growth and public safety.
+
+Despite his many accomplishments, Mrvan is not without controversy. In the past, he has been criticized by some for his ties to organized labor, with some suggesting that this support may have led him to prioritize the interests of unions over other stakeholders in his district. However, Mrvan has pushed back against these claims, arguing that he is committed to serving all of his constituents equally.
+
+In terms of where Mrvan stands on major issues, he is generally aligned with the Democratic Party on most policy matters. For example, he has been an advocate for increasing the minimum wage, protecting reproductive rights, and fighting climate change. However, he has also expressed a willingness to work across the aisle and find common ground with Republicans on certain issues, such as supporting infrastructure investments.
+
+One quote that sums up Mrvan's approach to politics and public service comes from his own website: My goal is to always put the people of Northwest Indiana first, and to fight for the things that matter most to them: good jobs, affordable health care, and strong communities. This commitment to serving his constituents has earned Mrvan a reputation as one of the most effective and dedicated members of Congress, and he is sure to be a force to be reckoned with in future elections.
