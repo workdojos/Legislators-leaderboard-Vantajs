@@ -3104,11 +3104,11 @@ export default {
 
       ],
       "header": {
-        "planet": "House of Representatives",
+        "planet": "United States",
         "year": "2023",
         "system": "Work Dojos",
-        "gate": "United States",
-        "ring": "Congress",
+        "gate": "Congress",
+        "ring": "House",
         "headerTitle": "Legislators.Live",
         "headerSubtitle": "Game of Politics",
         "subheaderTitle": "118th US Congress",
