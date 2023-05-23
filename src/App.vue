@@ -909,6 +909,15 @@ export default {
           "mech": "New Jersey"
         },
         {
+          "callsign": "Donald Payne Jr.",
+          "alias": "Donald Payne Jr.",
+          "code": "Points:  18",
+
+          "frame": "Democrat",
+          "mech": "New Jersey"
+        },
+
+        {
           "callsign": "Doris Matsui",
           "alias": "Doris Matsui",
           "code": "Points:  33",
