@@ -3700,8 +3700,8 @@ export default {
 
 <style lang="scss">
 #app {
-  width: 1902px;
-  height: 910px;
+  width: 3840px;
+  height: 2160px;
   overflow: hidden;
 }
 </style>
