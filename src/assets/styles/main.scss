@@ -675,12 +675,14 @@ section .section-header {
 
 .pilot-modal.portrait {
   .pilot {
-    width: 200px;
+    width: 600px;
   }
 
   img.portrait {
     width: 200px;
     height: 220px;
+    margin-left: 100px;
+    margin-top: 100px;
     object-fit: cover;
   }
 
