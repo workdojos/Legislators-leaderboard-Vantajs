@@ -117,11 +117,9 @@ export default {
           "frame": "Democratic ",
           "mech": "Virginia"
         },
-
 {
           "callsign": "Zach Nunn",
           "alias": "Zach Nunn,
-
           "corpro": "",
           "frame": "Republican ",
           "mech": "Iowa"
@@ -129,13 +127,10 @@ export default {
 {
           "callsign": "Zoe Lofgren",
           "alias": "Zoe Lofgren,
-
           "corpro": "",
           "frame": "Democratic",
           "mech": "California"
         },
-
-
         {
           "callsign": "Compadre",
           "alias": 'Clint "CC" Cruz',
