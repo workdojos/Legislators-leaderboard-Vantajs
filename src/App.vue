@@ -119,27 +119,7 @@ export default {
         },
 
       
-      {
-          "callsign": "Adam Schiff",
-          "alias": "Adam Schiff,
-
-          "code": "Points:  27,
-
-          "corpro": "Available",
-          "frame": "Democratic ",
-          "mech": "California"
-        },
-{
-          "callsign": "Adrian Smith",
-          "alias": "Adrian Smith,
-
-          "code": "Points:  94,
-
-          "corpro": "Available",
-          "frame": "Republican ",
-          "mech": "Nebraska"
-        },
-
+      
 
 
 
