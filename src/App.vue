@@ -3702,6 +3702,6 @@ export default {
 #app {
   width: 3804px;
   height: 1820px;
-  overflow: hidden;
+  overflow: auto;
 }
 </style>
