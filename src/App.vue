@@ -119,9 +119,9 @@ export default {
         },
         {
           "callsign": "Zoe Lofgren",
-          "alias": "Zoe Lofgren,
+          "alias": "Zoe Lofgren,"
 
-          “code”: "Points:  27,
+          “code”: "Points:  27,"
 
           “corpro”: "Available",
           "frame": "Democratic",
