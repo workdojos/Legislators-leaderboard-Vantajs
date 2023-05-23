@@ -105,7 +105,7 @@ export default {
           "alias": "Abigail Spanberger",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virginia"
         },
         {
@@ -113,7 +113,7 @@ export default {
           "alias": "Adam Schiff",
           "code": "Points:  44",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -121,7 +121,7 @@ export default {
           "alias": "Adrian Smith",
           "code": "Points:  43",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Nebraska"
         },
         {
@@ -129,7 +129,7 @@ export default {
           "alias": "Adriano Espaillat",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -137,7 +137,7 @@ export default {
           "alias": "Al Green",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -145,7 +145,7 @@ export default {
           "alias": "Alexander Mooney",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "West Virginia"
         },
         {
@@ -153,7 +153,7 @@ export default {
           "alias": "Alexandria Ocasio-Cortez",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -161,7 +161,7 @@ export default {
           "alias": "Alma Adams",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -169,7 +169,7 @@ export default {
           "alias": "Ami Bera",
           "code": "Points:  48",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -177,7 +177,7 @@ export default {
           "alias": "André Carson",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Indiana"
         },
         {
@@ -185,7 +185,7 @@ export default {
           "alias": "Andrea Salinas",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Oregon"
         },
         {
@@ -193,7 +193,7 @@ export default {
           "alias": "Andrew Clyde",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -201,7 +201,7 @@ export default {
           "alias": "Andrew Garbarino",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -209,7 +209,7 @@ export default {
           "alias": "Andrew Harris",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Maryland"
         },
         {
@@ -217,7 +217,7 @@ export default {
           "alias": "Andrew Kim",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -225,7 +225,7 @@ export default {
           "alias": "Andy Barr",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kentucky"
         },
         {
@@ -233,7 +233,7 @@ export default {
           "alias": "Andy Biggs",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arizona"
         },
         {
@@ -241,7 +241,7 @@ export default {
           "alias": "Andy Ogles",
           "code": "Points:  16",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -249,7 +249,7 @@ export default {
           "alias": "Angie Craig",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Minnesota"
         },
         {
@@ -257,7 +257,7 @@ export default {
           "alias": "Ann Wagner",
           "code": "Points:  16",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Missouri"
         },
         {
@@ -265,7 +265,7 @@ export default {
           "alias": "Anna Eshoo",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -273,7 +273,7 @@ export default {
           "alias": "Anna Paulina Luna",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -281,7 +281,7 @@ export default {
           "alias": "Annie Kuster",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Hampshire"
         },
         {
@@ -289,7 +289,7 @@ export default {
           "alias": "Anthony D'Esposito",
           "code": "Points:  31",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -297,7 +297,7 @@ export default {
           "alias": "Ashley Hinson",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Iowa"
         },
         {
@@ -305,7 +305,7 @@ export default {
           "alias": "August Pfluger",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -313,7 +313,7 @@ export default {
           "alias": "Aumua Amata Radewagen",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "American Samoa"
         },
         {
@@ -321,7 +321,7 @@ export default {
           "alias": "Austin Scott",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -329,7 +329,7 @@ export default {
           "alias": "Ayanna Pressley",
           "code": "Points:  50",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -337,7 +337,7 @@ export default {
           "alias": "Barbara Lee",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -345,7 +345,7 @@ export default {
           "alias": "Barry Loudermilk",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -353,7 +353,7 @@ export default {
           "alias": "Barry Moore",
           "code": "Points:  3",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Alabama"
         },
         {
@@ -361,7 +361,7 @@ export default {
           "alias": "Becca Balint",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Vermont"
         },
         {
@@ -369,7 +369,7 @@ export default {
           "alias": "Benjamin Lee Cline",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Virginia"
         },
         {
@@ -377,7 +377,7 @@ export default {
           "alias": "Bennie Thompson",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Mississippi"
         },
         {
@@ -385,7 +385,7 @@ export default {
           "alias": "Beth Van Duyne",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -393,7 +393,7 @@ export default {
           "alias": "Betty McCollum",
           "code": "Points:  39",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Minnesota"
         },
         {
@@ -401,7 +401,7 @@ export default {
           "alias": "Bill Foster",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -409,7 +409,7 @@ export default {
           "alias": "Bill Huizenga",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Michigan"
         },
         {
@@ -417,7 +417,7 @@ export default {
           "alias": "Bill Johnson",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -425,7 +425,7 @@ export default {
           "alias": "Bill Keating",
           "code": "Points:  41",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -433,7 +433,7 @@ export default {
           "alias": "Bill Pascrell",
           "code": "Points:  48",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -441,7 +441,7 @@ export default {
           "alias": "Bill Posey",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -449,7 +449,7 @@ export default {
           "alias": "Blaine Luetkemeyer",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Missouri"
         },
         {
@@ -457,7 +457,7 @@ export default {
           "alias": "Blake Moore",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Utah"
         },
         {
@@ -465,7 +465,7 @@ export default {
           "alias": "Bob Good",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Virginia"
         },
         {
@@ -473,7 +473,7 @@ export default {
           "alias": "Bob Latta",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -481,7 +481,7 @@ export default {
           "alias": "Bonnie Watson Coleman",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -489,7 +489,7 @@ export default {
           "alias": "Brad Finstad",
           "code": "Points:  32",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Minnesota"
         },
         {
@@ -497,7 +497,7 @@ export default {
           "alias": "Brad Schneider",
           "code": "Points:  53",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -505,7 +505,7 @@ export default {
           "alias": "Brad Sherman",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -513,7 +513,7 @@ export default {
           "alias": "Brad Wenstrup",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -521,7 +521,7 @@ export default {
           "alias": "Brandon Williams",
           "code": "Points:  1",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -529,7 +529,7 @@ export default {
           "alias": "Brendan Boyle",
           "code": "Points:  1",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -537,7 +537,7 @@ export default {
           "alias": "Brett Guthrie",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kentucky"
         },
         {
@@ -545,7 +545,7 @@ export default {
           "alias": "Brian Babin",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -553,7 +553,7 @@ export default {
           "alias": "Brian Fitzpatrick",
           "code": "Points:  10",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -561,7 +561,7 @@ export default {
           "alias": "Brian Higgins",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -569,7 +569,7 @@ export default {
           "alias": "Brian Mast",
           "code": "Points:  20",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -577,7 +577,7 @@ export default {
           "alias": "Brittany Pettersen",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Colorado"
         },
         {
@@ -585,7 +585,7 @@ export default {
           "alias": "Bruce Westerman",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arkansas"
         },
         {
@@ -593,7 +593,7 @@ export default {
           "alias": "Bryan Steil",
           "code": "Points:  46",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wisconsin"
         },
         {
@@ -601,7 +601,7 @@ export default {
           "alias": "Burgess Owens",
           "code": "Points:  43",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Utah"
         },
         {
@@ -609,7 +609,7 @@ export default {
           "alias": "Byron Donalds",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -617,7 +617,7 @@ export default {
           "alias": "Carlos Gimenez",
           "code": "Points:  46",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -625,7 +625,7 @@ export default {
           "alias": "Carol Miller",
           "code": "Points:  47",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "West Virginia"
         },
         {
@@ -633,7 +633,7 @@ export default {
           "alias": "Cathy McMorris Rodgers",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Washington"
         },
         {
@@ -641,7 +641,7 @@ export default {
           "alias": "Charles J. Fleischmann",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -649,7 +649,7 @@ export default {
           "alias": "Chellie Pingree",
           "code": "Points:  12",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maine"
         },
         {
@@ -657,7 +657,7 @@ export default {
           "alias": "Chip Roy",
           "code": "Points:  50",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -665,7 +665,7 @@ export default {
           "alias": "Chris Pappas",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Hampshire"
         },
         {
@@ -673,7 +673,7 @@ export default {
           "alias": "Chris Smith",
           "code": "Points:  40",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New Jersey"
         },
         {
@@ -681,7 +681,7 @@ export default {
           "alias": "Chris Stewart",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Utah"
         },
         {
@@ -689,7 +689,7 @@ export default {
           "alias": "Chrissy Houlahan",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -697,7 +697,7 @@ export default {
           "alias": "Christopher Deluzio",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -705,7 +705,7 @@ export default {
           "alias": "Chuck Edwards",
           "code": "Points:  0",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -713,7 +713,7 @@ export default {
           "alias": "Claudia Tenney",
           "code": "Points:  30",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -721,7 +721,7 @@ export default {
           "alias": "Clay Higgins",
           "code": "Points:  9",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Louisiana"
         },
         {
@@ -729,7 +729,7 @@ export default {
           "alias": "Cliff Bentz",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oregon"
         },
         {
@@ -737,7 +737,7 @@ export default {
           "alias": "Colin Allred",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -745,7 +745,7 @@ export default {
           "alias": "Cori Bush",
           "code": "Points:  3",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Missouri"
         },
         {
@@ -753,7 +753,7 @@ export default {
           "alias": "Cory Mills",
           "code": "Points:  21",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -761,7 +761,7 @@ export default {
           "alias": "D. Adam Smith",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -769,7 +769,7 @@ export default {
           "alias": "Dale Strong",
           "code": "Points:  10",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Alabama"
         },
         {
@@ -777,7 +777,7 @@ export default {
           "alias": "Dan Bishop",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -785,7 +785,7 @@ export default {
           "alias": "Dan Kildee",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -793,7 +793,7 @@ export default {
           "alias": "Dan Meuser",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -801,7 +801,7 @@ export default {
           "alias": "Dan Newhouse",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Washington"
         },
         {
@@ -809,7 +809,7 @@ export default {
           "alias": "Daniel Crenshaw",
           "code": "Points:  0",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -817,7 +817,7 @@ export default {
           "alias": "Daniel Goldman",
           "code": "Points:  0",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -825,7 +825,7 @@ export default {
           "alias": "Daniel Webster",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -833,7 +833,7 @@ export default {
           "alias": "Danny K. Davis",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -841,7 +841,7 @@ export default {
           "alias": "Darin LaHood",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Illinois"
         },
         {
@@ -849,7 +849,7 @@ export default {
           "alias": "Darrell Issa",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -857,7 +857,7 @@ export default {
           "alias": "Darren Soto",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -865,7 +865,7 @@ export default {
           "alias": "David G. Valadao",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -873,7 +873,7 @@ export default {
           "alias": "David Joyce",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -881,7 +881,7 @@ export default {
           "alias": "David Kustoff",
           "code": "Points:  1",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -889,7 +889,7 @@ export default {
           "alias": "David N. Cicilline",
           "code": "Points:  13",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Rhode Island"
         },
         {
@@ -897,7 +897,7 @@ export default {
           "alias": "David Rouzer",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -905,7 +905,7 @@ export default {
           "alias": "David Schweikert",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arizona"
         },
         {
@@ -913,7 +913,7 @@ export default {
           "alias": "David Scott",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Georgia"
         },
         {
@@ -921,7 +921,7 @@ export default {
           "alias": "David Trone",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -929,7 +929,7 @@ export default {
           "alias": "Dean Phillips",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Minnesota"
         },
         {
@@ -937,7 +937,7 @@ export default {
           "alias": "Debbie Dingell",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -945,7 +945,7 @@ export default {
           "alias": "Debbie Lesko",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arizona"
         },
         {
@@ -953,7 +953,7 @@ export default {
           "alias": "Debbie Wasserman Schultz",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -961,7 +961,7 @@ export default {
           "alias": "Deborah Ross",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -969,7 +969,7 @@ export default {
           "alias": "Delia Ramirez",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -977,7 +977,7 @@ export default {
           "alias": "Derek Kilmer",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -985,7 +985,7 @@ export default {
           "alias": "Derrick Van Orden",
           "code": "Points:  12",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wisconsin"
         },
         {
@@ -993,7 +993,7 @@ export default {
           "alias": "Diana DeGette",
           "code": "Points:  8",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Colorado"
         },
         {
@@ -1001,7 +1001,7 @@ export default {
           "alias": "Diana Harshbarger",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -1009,7 +1009,7 @@ export default {
           "alias": "Dina Titus",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Nevada"
         },
         {
@@ -1017,7 +1017,7 @@ export default {
           "alias": "Don Bacon",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Nebraska"
         },
         {
@@ -1025,7 +1025,7 @@ export default {
           "alias": "Donald Davis",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -1033,7 +1033,7 @@ export default {
           "alias": "Donald Norcross",
           "code": "Points:  14",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -1041,7 +1041,7 @@ export default {
           "alias": "Donald Payne Jr.",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -1049,7 +1049,7 @@ export default {
           "alias": "Donald Sternoff Beyer Jr.",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virginia"
         },
         {
@@ -1057,7 +1057,7 @@ export default {
           "alias": "Doris Matsui",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1065,7 +1065,7 @@ export default {
           "alias": "Doug LaMalfa",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -1073,7 +1073,7 @@ export default {
           "alias": "Doug Lamborn",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Colorado"
         },
         {
@@ -1081,7 +1081,7 @@ export default {
           "alias": "Drew Ferguson",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -1089,7 +1089,7 @@ export default {
           "alias": "Dusty Johnson",
           "code": "Points:  31",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Dakota"
         },
         {
@@ -1097,7 +1097,7 @@ export default {
           "alias": "Dutch Ruppersberger",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -1105,7 +1105,7 @@ export default {
           "alias": "Dwight Evans",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -1113,7 +1113,7 @@ export default {
           "alias": "Earl Blumenauer",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Oregon"
         },
         {
@@ -1121,7 +1121,7 @@ export default {
           "alias": "Earl Carter",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -1129,7 +1129,7 @@ export default {
           "alias": "Ed Case",
           "code": "Points:  47",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Hawaii"
         },
         {
@@ -1137,7 +1137,7 @@ export default {
           "alias": "Eleanor Holmes Norton",
           "code": "Points:  50",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Non-Voting"
         },
         {
@@ -1145,7 +1145,7 @@ export default {
           "alias": "Eli Crane",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arizona"
         },
         {
@@ -1153,7 +1153,7 @@ export default {
           "alias": "Elise Stefanik",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -1161,7 +1161,7 @@ export default {
           "alias": "Elissa Slotkin",
           "code": "Points:  44",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -1169,7 +1169,7 @@ export default {
           "alias": "Emanuel Cleaver",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Missouri"
         },
         {
@@ -1177,7 +1177,7 @@ export default {
           "alias": "Emilia Sykes",
           "code": "Points:  32",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Ohio"
         },
         {
@@ -1185,7 +1185,7 @@ export default {
           "alias": "Eric Burlison",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Missouri"
         },
         {
@@ -1193,7 +1193,7 @@ export default {
           "alias": "Eric Sorensen",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -1201,7 +1201,7 @@ export default {
           "alias": "Eric Swalwell",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1209,7 +1209,7 @@ export default {
           "alias": "Erin Houchin",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -1217,7 +1217,7 @@ export default {
           "alias": "Frank Lucas",
           "code": "Points:  44",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oklahoma"
         },
         {
@@ -1225,7 +1225,7 @@ export default {
           "alias": "Frank Mrvan",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Indiana"
         },
         {
@@ -1233,7 +1233,7 @@ export default {
           "alias": "Frank Pallone Jr.",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -1241,7 +1241,7 @@ export default {
           "alias": "Frederica S. Wilson",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -1249,7 +1249,7 @@ export default {
           "alias": "French Hill",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arkansas"
         },
         {
@@ -1257,7 +1257,7 @@ export default {
           "alias": "Gabriel Vasquez",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Mexico"
         },
         {
@@ -1265,7 +1265,7 @@ export default {
           "alias": "Garret Graves",
           "code": "Points:  21",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Louisiana"
         },
         {
@@ -1273,7 +1273,7 @@ export default {
           "alias": "Gary Palmer",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Alabama"
         },
         {
@@ -1281,7 +1281,7 @@ export default {
           "alias": "George Devolder-Santos",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -1289,7 +1289,7 @@ export default {
           "alias": "Gerald Edward Connolly",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virginia"
         },
         {
@@ -1297,7 +1297,7 @@ export default {
           "alias": "Glenn Grothman",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wisconsin"
         },
         {
@@ -1305,7 +1305,7 @@ export default {
           "alias": "Glenn Ivey",
           "code": "Points:  39",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -1313,7 +1313,7 @@ export default {
           "alias": "Glenn Thompson",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -1321,7 +1321,7 @@ export default {
           "alias": "Grace Meng",
           "code": "Points:  21",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -1329,7 +1329,7 @@ export default {
           "alias": "Grace Napolitano",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1337,7 +1337,7 @@ export default {
           "alias": "Greg Casar",
           "code": "Points:  54",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -1345,7 +1345,7 @@ export default {
           "alias": "Greg Landsman",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Ohio"
         },
         {
@@ -1353,7 +1353,7 @@ export default {
           "alias": "Greg Pence",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -1361,7 +1361,7 @@ export default {
           "alias": "Greg Stanton",
           "code": "Points:  15",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Arizona"
         },
         {
@@ -1369,7 +1369,7 @@ export default {
           "alias": "Greg Steube",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -1377,7 +1377,7 @@ export default {
           "alias": "Gregorio Kilili Camacho Sablan",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Northern Mariana Islands"
         },
         {
@@ -1385,7 +1385,7 @@ export default {
           "alias": "Gregory Murphy",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -1393,7 +1393,7 @@ export default {
           "alias": "Gregory W. Meeks",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -1401,7 +1401,7 @@ export default {
           "alias": "Gus M. Bilirakis",
           "code": "Points:  14",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -1409,7 +1409,7 @@ export default {
           "alias": "Guy Reschenthaler",
           "code": "Points:  10",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -1417,7 +1417,7 @@ export default {
           "alias": "Gwen Moore",
           "code": "Points:  32",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Wisconsin"
         },
         {
@@ -1425,7 +1425,7 @@ export default {
           "alias": "H. Morgan Griffith",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Virginia"
         },
         {
@@ -1433,7 +1433,7 @@ export default {
           "alias": "Hakeem Jeffries",
           "code": "Points:  47",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -1441,7 +1441,7 @@ export default {
           "alias": "Hal Rogers",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kentucky"
         },
         {
@@ -1449,7 +1449,7 @@ export default {
           "alias": "Haley Stevens",
           "code": "Points:  47",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -1457,7 +1457,7 @@ export default {
           "alias": "Hank Johnson",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Georgia"
         },
         {
@@ -1465,7 +1465,7 @@ export default {
           "alias": "Harriet Hageman",
           "code": "Points:  54",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wyoming"
         },
         {
@@ -1473,7 +1473,7 @@ export default {
           "alias": "Henry Cuellar",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -1481,7 +1481,7 @@ export default {
           "alias": "Hillary Scholten",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -1489,7 +1489,7 @@ export default {
           "alias": "Ilhan Omar",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Minnesota"
         },
         {
@@ -1497,7 +1497,7 @@ export default {
           "alias": "Jack Bergman",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Michigan"
         },
         {
@@ -1505,7 +1505,7 @@ export default {
           "alias": "Jacob LaTurner",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kansas"
         },
         {
@@ -1513,7 +1513,7 @@ export default {
           "alias": "Jahana Hayes",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Connecticut"
         },
         {
@@ -1521,7 +1521,7 @@ export default {
           "alias": "Jake Auchincloss",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -1529,7 +1529,7 @@ export default {
           "alias": "Jake Ellzey",
           "code": "Points:  9",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -1537,7 +1537,7 @@ export default {
           "alias": "Jamaal Bowman",
           "code": "Points:  49",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -1545,7 +1545,7 @@ export default {
           "alias": "James Clyburn",
           "code": "Points:  15",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "South Carolina"
         },
         {
@@ -1553,7 +1553,7 @@ export default {
           "alias": "James Comer Jr.",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kentucky"
         },
         {
@@ -1561,7 +1561,7 @@ export default {
           "alias": "James Moylan",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Guam"
         },
         {
@@ -1569,7 +1569,7 @@ export default {
           "alias": "Jamie Raskin",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -1577,7 +1577,7 @@ export default {
           "alias": "Jan Schakowsky",
           "code": "Points:  3",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -1585,7 +1585,7 @@ export default {
           "alias": "Jared Evan Moskowitz",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -1593,7 +1593,7 @@ export default {
           "alias": "Jared Golden",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maine"
         },
         {
@@ -1601,7 +1601,7 @@ export default {
           "alias": "Jared Huffman",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1609,7 +1609,7 @@ export default {
           "alias": "Jasmine Crockett",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -1617,7 +1617,7 @@ export default {
           "alias": "Jason Crow",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Colorado"
         },
         {
@@ -1625,7 +1625,7 @@ export default {
           "alias": "Jason Smith",
           "code": "Points:  0",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Missouri"
         },
         {
@@ -1633,7 +1633,7 @@ export default {
           "alias": "Jay Obernolte",
           "code": "Points:  14",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -1641,7 +1641,7 @@ export default {
           "alias": "Jeff Duncan",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Carolina"
         },
         {
@@ -1649,7 +1649,7 @@ export default {
           "alias": "Jeff Jackson",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -1657,7 +1657,7 @@ export default {
           "alias": "Jeff Van Drew",
           "code": "Points:  39",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New Jersey"
         },
         {
@@ -1665,7 +1665,7 @@ export default {
           "alias": "Jennifer Kiggans",
           "code": "Points:  12",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Virginia"
         },
         {
@@ -1673,7 +1673,7 @@ export default {
           "alias": "Jennifer McClellan",
           "code": "Points:  48",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virginia"
         },
         {
@@ -1681,7 +1681,7 @@ export default {
           "alias": "Jennifer Wexton",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virginia"
         },
         {
@@ -1689,7 +1689,7 @@ export default {
           "alias": "Jerrold Nadler",
           "code": "Points:  16",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -1697,7 +1697,7 @@ export default {
           "alias": "Jerry Carl",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Alabama"
         },
         {
@@ -1705,7 +1705,7 @@ export default {
           "alias": "Jesus Garcia",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -1713,7 +1713,7 @@ export default {
           "alias": "Jill Tokuda",
           "code": "Points:  48",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Hawaii"
         },
         {
@@ -1721,7 +1721,7 @@ export default {
           "alias": "Jim Baird",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -1729,7 +1729,7 @@ export default {
           "alias": "Jim Banks",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -1737,7 +1737,7 @@ export default {
           "alias": "Jim Costa",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1745,7 +1745,7 @@ export default {
           "alias": "Jim Himes",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Connecticut"
         },
         {
@@ -1753,7 +1753,7 @@ export default {
           "alias": "Jim Jordan",
           "code": "Points:  3",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -1761,7 +1761,7 @@ export default {
           "alias": "Jim McGovern",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -1769,7 +1769,7 @@ export default {
           "alias": "Jimmy Gomez",
           "code": "Points:  10",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1777,7 +1777,7 @@ export default {
           "alias": "Jimmy Panetta",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1785,7 +1785,7 @@ export default {
           "alias": "Joaquin Castro",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -1793,7 +1793,7 @@ export default {
           "alias": "Jodey Arrington",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -1801,7 +1801,7 @@ export default {
           "alias": "Joe Courtney",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Connecticut"
         },
         {
@@ -1809,7 +1809,7 @@ export default {
           "alias": "Joe Neguse",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Colorado"
         },
         {
@@ -1817,7 +1817,7 @@ export default {
           "alias": "Joe Wilson",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Carolina"
         },
         {
@@ -1825,7 +1825,7 @@ export default {
           "alias": "John Carter",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -1833,7 +1833,7 @@ export default {
           "alias": "John Curtis",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Utah"
         },
         {
@@ -1841,7 +1841,7 @@ export default {
           "alias": "John Duarte",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -1849,7 +1849,7 @@ export default {
           "alias": "John Garamendi",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1857,7 +1857,7 @@ export default {
           "alias": "John James",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Michigan"
         },
         {
@@ -1865,7 +1865,7 @@ export default {
           "alias": "John Joyce",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -1873,7 +1873,7 @@ export default {
           "alias": "John Larson",
           "code": "Points:  1",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Connecticut"
         },
         {
@@ -1881,7 +1881,7 @@ export default {
           "alias": "John Moolenaar",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Michigan"
         },
         {
@@ -1889,7 +1889,7 @@ export default {
           "alias": "John Rose",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -1897,7 +1897,7 @@ export default {
           "alias": "John Rutherford",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -1905,7 +1905,7 @@ export default {
           "alias": "John Sarbanes",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -1913,7 +1913,7 @@ export default {
           "alias": "Jonathan Jackson",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -1921,7 +1921,7 @@ export default {
           "alias": "Joseph Morelle",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -1929,7 +1929,7 @@ export default {
           "alias": "Josh Brecheen",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oklahoma"
         },
         {
@@ -1937,7 +1937,7 @@ export default {
           "alias": "Josh Gottheimer",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -1945,7 +1945,7 @@ export default {
           "alias": "Josh Harder",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1953,7 +1953,7 @@ export default {
           "alias": "Joyce Beatty",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Ohio"
         },
         {
@@ -1961,7 +1961,7 @@ export default {
           "alias": "Juan Ciscomani",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arizona"
         },
         {
@@ -1969,7 +1969,7 @@ export default {
           "alias": "Juan Vargas",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1977,7 +1977,7 @@ export default {
           "alias": "Judy Chu",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1985,7 +1985,7 @@ export default {
           "alias": "Julia Brownley",
           "code": "Points:  14",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -1993,7 +1993,7 @@ export default {
           "alias": "Julia Letlow",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Louisiana"
         },
         {
@@ -2001,7 +2001,7 @@ export default {
           "alias": "Kat Cammack",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2009,7 +2009,7 @@ export default {
           "alias": "Katherine Clark",
           "code": "Points:  44",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -2017,7 +2017,7 @@ export default {
           "alias": "Kathy Castor",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -2025,7 +2025,7 @@ export default {
           "alias": "Kathy Manning",
           "code": "Points:  0",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -2033,7 +2033,7 @@ export default {
           "alias": "Katie Porter",
           "code": "Points:  10",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2041,7 +2041,7 @@ export default {
           "alias": "Kay Granger",
           "code": "Points:  47",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2049,7 +2049,7 @@ export default {
           "alias": "Keith Self",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2057,7 +2057,7 @@ export default {
           "alias": "Kelly Armstrong",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Dakota"
         },
         {
@@ -2065,7 +2065,7 @@ export default {
           "alias": "Ken Buck",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Colorado"
         },
         {
@@ -2073,7 +2073,7 @@ export default {
           "alias": "Ken Calvert",
           "code": "Points:  48",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -2081,7 +2081,7 @@ export default {
           "alias": "Kevin Hern",
           "code": "Points:  32",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oklahoma"
         },
         {
@@ -2089,7 +2089,7 @@ export default {
           "alias": "Kevin Kiley",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -2097,7 +2097,7 @@ export default {
           "alias": "Kevin McCarthy",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -2105,7 +2105,7 @@ export default {
           "alias": "Kevin Mullin",
           "code": "Points:  20",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2113,7 +2113,7 @@ export default {
           "alias": "Kim Schrier",
           "code": "Points:  40",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -2121,7 +2121,7 @@ export default {
           "alias": "Kweisi Mfume",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -2129,7 +2129,7 @@ export default {
           "alias": "Lance Gooden",
           "code": "Points:  21",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2137,7 +2137,7 @@ export default {
           "alias": "Larry Bucshon",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -2145,7 +2145,7 @@ export default {
           "alias": "Laurel Lee",
           "code": "Points:  41",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2153,7 +2153,7 @@ export default {
           "alias": "Lauren Boebert",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Colorado"
         },
         {
@@ -2161,7 +2161,7 @@ export default {
           "alias": "Lauren Underwood",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -2169,7 +2169,7 @@ export default {
           "alias": "Linda Sánchez",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2177,7 +2177,7 @@ export default {
           "alias": "Lisa Blunt Rochester",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Delaware"
         },
         {
@@ -2185,7 +2185,7 @@ export default {
           "alias": "Lisa McClain",
           "code": "Points:  14",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Michigan"
         },
         {
@@ -2193,7 +2193,7 @@ export default {
           "alias": "Lizzie Pannill Fletcher",
           "code": "Points:  21",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -2201,7 +2201,7 @@ export default {
           "alias": "Lloyd Doggett",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -2209,7 +2209,7 @@ export default {
           "alias": "Lloyd Smucker",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -2217,7 +2217,7 @@ export default {
           "alias": "Lois Frankel",
           "code": "Points:  12",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -2225,7 +2225,7 @@ export default {
           "alias": "Lori Chavez-DeRemer",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oregon"
         },
         {
@@ -2233,7 +2233,7 @@ export default {
           "alias": "Lori Trahan",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -2241,7 +2241,7 @@ export default {
           "alias": "Lou Correa",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2249,7 +2249,7 @@ export default {
           "alias": "Lucy McBath",
           "code": "Points:  41",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Georgia"
         },
         {
@@ -2257,7 +2257,7 @@ export default {
           "alias": "Madeleine Dean",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -2265,7 +2265,7 @@ export default {
           "alias": "Marc Veasey",
           "code": "Points:  40",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -2273,7 +2273,7 @@ export default {
           "alias": "Marcus Molinaro",
           "code": "Points:  30",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -2281,7 +2281,7 @@ export default {
           "alias": "Marcy Kaptur",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Ohio"
         },
         {
@@ -2289,7 +2289,7 @@ export default {
           "alias": "Maria Elvira Salazar",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2297,7 +2297,7 @@ export default {
           "alias": "Mariannette Miller-Meeks",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Iowa"
         },
         {
@@ -2305,7 +2305,7 @@ export default {
           "alias": "Marie Gluesenkamp Pérez",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -2313,7 +2313,7 @@ export default {
           "alias": "Marilyn Strickland",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -2321,7 +2321,7 @@ export default {
           "alias": "Mario Diaz-Balart",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2329,7 +2329,7 @@ export default {
           "alias": "Marjorie Taylor Greene",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -2337,7 +2337,7 @@ export default {
           "alias": "Mark Alford",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Missouri"
         },
         {
@@ -2345,7 +2345,7 @@ export default {
           "alias": "Mark Amodei",
           "code": "Points:  30",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Nevada"
         },
         {
@@ -2353,7 +2353,7 @@ export default {
           "alias": "Mark DeSaulnier",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2361,7 +2361,7 @@ export default {
           "alias": "Mark Green",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -2369,7 +2369,7 @@ export default {
           "alias": "Mark Pocan",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Wisconsin"
         },
         {
@@ -2377,7 +2377,7 @@ export default {
           "alias": "Mark Takano",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2385,7 +2385,7 @@ export default {
           "alias": "Mary Gay Scanlon",
           "code": "Points:  49",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -2393,7 +2393,7 @@ export default {
           "alias": "Mary Miller",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Illinois"
         },
         {
@@ -2401,7 +2401,7 @@ export default {
           "alias": "Mary Peltola",
           "code": "Points:  15",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Alaska"
         },
         {
@@ -2409,7 +2409,7 @@ export default {
           "alias": "Matt Cartwright",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -2417,7 +2417,7 @@ export default {
           "alias": "Matt Gaetz",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2425,7 +2425,7 @@ export default {
           "alias": "Matt Rosendale",
           "code": "Points:  20",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Montana"
         },
         {
@@ -2433,7 +2433,7 @@ export default {
           "alias": "Max Miller",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -2441,7 +2441,7 @@ export default {
           "alias": "Maxine Waters",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2449,7 +2449,7 @@ export default {
           "alias": "Maxwell Alejandro Frost",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -2457,7 +2457,7 @@ export default {
           "alias": "Melanie Ann Stansbury",
           "code": "Points:  20",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Mexico"
         },
         {
@@ -2465,7 +2465,7 @@ export default {
           "alias": "Michael C. Burgess",
           "code": "Points:  46",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2473,7 +2473,7 @@ export default {
           "alias": "Michael Cloud",
           "code": "Points:  10",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2481,7 +2481,7 @@ export default {
           "alias": "Michael Guest",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Mississippi"
         },
         {
@@ -2489,7 +2489,7 @@ export default {
           "alias": "Michael K. Simpson",
           "code": "Points:  46",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Idaho"
         },
         {
@@ -2497,7 +2497,7 @@ export default {
           "alias": "Michael Lawler",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -2505,7 +2505,7 @@ export default {
           "alias": "Michael McCaul",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2513,7 +2513,7 @@ export default {
           "alias": "Michael Turner",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -2521,7 +2521,7 @@ export default {
           "alias": "Michael Waltz",
           "code": "Points:  58",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2529,7 +2529,7 @@ export default {
           "alias": "Michelle Fischbach",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Minnesota"
         },
         {
@@ -2537,7 +2537,7 @@ export default {
           "alias": "Michelle Steel",
           "code": "Points:  15",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -2545,7 +2545,7 @@ export default {
           "alias": "Mike Bost",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Illinois"
         },
         {
@@ -2553,7 +2553,7 @@ export default {
           "alias": "Mike Carey",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -2561,7 +2561,7 @@ export default {
           "alias": "Mike Collins",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -2569,7 +2569,7 @@ export default {
           "alias": "Mike Ezell",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Mississippi"
         },
         {
@@ -2577,7 +2577,7 @@ export default {
           "alias": "Mike Flood",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Nebraska"
         },
         {
@@ -2585,7 +2585,7 @@ export default {
           "alias": "Mike Gallagher",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wisconsin"
         },
         {
@@ -2593,7 +2593,7 @@ export default {
           "alias": "Mike Garcia",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -2601,7 +2601,7 @@ export default {
           "alias": "Mike Johnson",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Louisiana"
         },
         {
@@ -2609,7 +2609,7 @@ export default {
           "alias": "Mike Kelly",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -2617,7 +2617,7 @@ export default {
           "alias": "Mike Levin",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2625,7 +2625,7 @@ export default {
           "alias": "Mike Quigley",
           "code": "Points:  32",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -2633,7 +2633,7 @@ export default {
           "alias": "Mike Rogers",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Alabama"
         },
         {
@@ -2641,7 +2641,7 @@ export default {
           "alias": "Mike Thompson",
           "code": "Points:  31",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2649,7 +2649,7 @@ export default {
           "alias": "Mikie Sherrill",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -2657,7 +2657,7 @@ export default {
           "alias": "Monica De La Cruz",
           "code": "Points:  32",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2665,7 +2665,7 @@ export default {
           "alias": "Morgan Luttrell",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2673,7 +2673,7 @@ export default {
           "alias": "Morgan McGarvey",
           "code": "Points:  27",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Kentucky"
         },
         {
@@ -2681,7 +2681,7 @@ export default {
           "alias": "Nancy Mace",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Carolina"
         },
         {
@@ -2689,7 +2689,7 @@ export default {
           "alias": "Nancy Pelosi",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2697,7 +2697,7 @@ export default {
           "alias": "Nanette Barragán",
           "code": "Points:  50",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2705,7 +2705,7 @@ export default {
           "alias": "Nathaniel Moran",
           "code": "Points:  50",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2713,7 +2713,7 @@ export default {
           "alias": "Neal Dunn",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -2721,7 +2721,7 @@ export default {
           "alias": "Nicholas A. Langworthy",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -2729,7 +2729,7 @@ export default {
           "alias": "Nicholas J. LaLota",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -2737,7 +2737,7 @@ export default {
           "alias": "Nicole Malliotakis",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New York"
         },
         {
@@ -2745,7 +2745,7 @@ export default {
           "alias": "Nikema Williams",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Georgia"
         },
         {
@@ -2753,7 +2753,7 @@ export default {
           "alias": "Nikki Budzinski",
           "code": "Points:  14",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -2761,7 +2761,7 @@ export default {
           "alias": "Norma Torres",
           "code": "Points:  17",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2769,7 +2769,7 @@ export default {
           "alias": "Nydia Velazquez",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New"
         },
         {
@@ -2777,7 +2777,7 @@ export default {
           "alias": "Pat Fallon",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2785,7 +2785,7 @@ export default {
           "alias": "Pat Ryan",
           "code": "Points:  8",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New"
         },
         {
@@ -2793,7 +2793,7 @@ export default {
           "alias": "Patrick T. McHenry",
           "code": "Points:  41",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -2801,7 +2801,7 @@ export default {
           "alias": "Paul Gosar",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arizona"
         },
         {
@@ -2809,7 +2809,7 @@ export default {
           "alias": "Paul Tonko",
           "code": "Points:  52",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -2817,7 +2817,7 @@ export default {
           "alias": "Pete Aguilar",
           "code": "Points:  15",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2825,7 +2825,7 @@ export default {
           "alias": "Pete Sessions",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2833,7 +2833,7 @@ export default {
           "alias": "Pete Stauber",
           "code": "Points:  26",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Minnesota"
         },
         {
@@ -2841,7 +2841,7 @@ export default {
           "alias": "Pramila Jayapal",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -2849,7 +2849,7 @@ export default {
           "alias": "Raja Krishnamoorthi",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -2857,7 +2857,7 @@ export default {
           "alias": "Ralph Norman",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Carolina"
         },
         {
@@ -2865,7 +2865,7 @@ export default {
           "alias": "Randy Feenstra",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Iowa"
         },
         {
@@ -2873,7 +2873,7 @@ export default {
           "alias": "Randy Weber",
           "code": "Points:  3",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -2881,7 +2881,7 @@ export default {
           "alias": "Rashida Tlaib",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -2889,7 +2889,7 @@ export default {
           "alias": "Raúl Grijalva",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Arizona"
         },
         {
@@ -2897,7 +2897,7 @@ export default {
           "alias": "Raul Ruiz",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2905,7 +2905,7 @@ export default {
           "alias": "Rich McCormick",
           "code": "Points:  42",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -2913,7 +2913,7 @@ export default {
           "alias": "Richard Hudson",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -2921,7 +2921,7 @@ export default {
           "alias": "Richard Neal",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -2929,7 +2929,7 @@ export default {
           "alias": "Rick Allen",
           "code": "Points:  43",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Georgia"
         },
         {
@@ -2937,7 +2937,7 @@ export default {
           "alias": "Rick Crawford",
           "code": "Points:  20",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arkansas"
         },
         {
@@ -2945,7 +2945,7 @@ export default {
           "alias": "Rick Larsen",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -2953,7 +2953,7 @@ export default {
           "alias": "Ritchie Torres",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -2961,7 +2961,7 @@ export default {
           "alias": "Ro Khanna",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2969,7 +2969,7 @@ export default {
           "alias": "Robert Aderholt",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Alabama"
         },
         {
@@ -2977,7 +2977,7 @@ export default {
           "alias": "Robert C. Scott",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virginia"
         },
         {
@@ -2985,7 +2985,7 @@ export default {
           "alias": "Robert Garcia",
           "code": "Points:  21",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -2993,7 +2993,7 @@ export default {
           "alias": "Robert J. Wittman",
           "code": "Points:  22",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Virginia"
         },
         {
@@ -3001,7 +3001,7 @@ export default {
           "alias": "Robert Menendez Jr.",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Jersey"
         },
         {
@@ -3009,7 +3009,7 @@ export default {
           "alias": "Robin Kelly",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -3017,7 +3017,7 @@ export default {
           "alias": "Roger Williams",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -3025,7 +3025,7 @@ export default {
           "alias": "Ron Estes",
           "code": "Points:  28",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kansas"
         },
         {
@@ -3033,7 +3033,7 @@ export default {
           "alias": "Ronny L. Jackson",
           "code": "Points:  16",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -3041,7 +3041,7 @@ export default {
           "alias": "Rosa L. DeLauro",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Connecticut"
         },
         {
@@ -3049,7 +3049,7 @@ export default {
           "alias": "Ruben Gallego",
           "code": "Points:  16",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Arizona"
         },
         {
@@ -3057,7 +3057,7 @@ export default {
           "alias": "Rudy Yakym",
           "code": "Points:  13",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -3065,7 +3065,7 @@ export default {
           "alias": "Russ Fulcher",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Idaho"
         },
         {
@@ -3073,7 +3073,7 @@ export default {
           "alias": "Russell Fry",
           "code": "Points:  36",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Carolina"
         },
         {
@@ -3081,7 +3081,7 @@ export default {
           "alias": "Ryan Zinke",
           "code": "Points:  41",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Montana"
         },
         {
@@ -3089,7 +3089,7 @@ export default {
           "alias": "Salud Carbajal",
           "code": "Points:  34",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -3097,7 +3097,7 @@ export default {
           "alias": "Sam Graves",
           "code": "Points:  39",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Missouri"
         },
         {
@@ -3105,7 +3105,7 @@ export default {
           "alias": "Sanford Bishop Jr.",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Georgia"
         },
         {
@@ -3113,7 +3113,7 @@ export default {
           "alias": "Sara Jacobs",
           "code": "Points:  43",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -3121,7 +3121,7 @@ export default {
           "alias": "Scott DesJarlais",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -3129,7 +3129,7 @@ export default {
           "alias": "Scott Fitzgerald",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wisconsin"
         },
         {
@@ -3137,7 +3137,7 @@ export default {
           "alias": "Scott Franklin",
           "code": "Points:  8",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -3145,7 +3145,7 @@ export default {
           "alias": "Scott Perry",
           "code": "Points:  44",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Pennsylvania"
         },
         {
@@ -3153,7 +3153,7 @@ export default {
           "alias": "Scott Peters",
           "code": "Points:  13",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -3161,7 +3161,7 @@ export default {
           "alias": "Sean Casten",
           "code": "Points:  35",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Illinois"
         },
         {
@@ -3169,7 +3169,7 @@ export default {
           "alias": "Seth Magaziner",
           "code": "Points:  55",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Rhode Island"
         },
         {
@@ -3177,7 +3177,7 @@ export default {
           "alias": "Seth Moulton",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -3185,7 +3185,7 @@ export default {
           "alias": "Sharice Davids",
           "code": "Points:  23",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Kansas"
         },
         {
@@ -3193,7 +3193,7 @@ export default {
           "alias": "Sheila Cherfilus-McCormick",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Florida"
         },
         {
@@ -3201,7 +3201,7 @@ export default {
           "alias": "Sheila Jackson Lee",
           "code": "Points:  39",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -3209,7 +3209,7 @@ export default {
           "alias": "Shontel Brown",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Ohio"
         },
         {
@@ -3217,7 +3217,7 @@ export default {
           "alias": "Shri Thanedar",
           "code": "Points:  13",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Michigan"
         },
         {
@@ -3225,7 +3225,7 @@ export default {
           "alias": "Stacey Plaskett",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Virgin Islands"
         },
         {
@@ -3233,7 +3233,7 @@ export default {
           "alias": "Steny Hoyer",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Maryland"
         },
         {
@@ -3241,7 +3241,7 @@ export default {
           "alias": "Stephanie Bice",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oklahoma"
         },
         {
@@ -3249,7 +3249,7 @@ export default {
           "alias": "Stephen Lynch",
           "code": "Points:  19",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Massachusetts"
         },
         {
@@ -3257,7 +3257,7 @@ export default {
           "alias": "Steve Cohen",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Tennessee"
         },
         {
@@ -3265,7 +3265,7 @@ export default {
           "alias": "Steve Scalise",
           "code": "Points:  0",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Louisiana"
         },
         {
@@ -3273,7 +3273,7 @@ export default {
           "alias": "Steve Womack",
           "code": "Points:  54",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Arkansas"
         },
         {
@@ -3281,7 +3281,7 @@ export default {
           "alias": "Steven Horsford",
           "code": "Points:  8",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Nevada"
         },
         {
@@ -3289,7 +3289,7 @@ export default {
           "alias": "Summer Lee",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -3297,7 +3297,7 @@ export default {
           "alias": "Susan Wild",
           "code": "Points:  2",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Pennsylvania"
         },
         {
@@ -3305,7 +3305,7 @@ export default {
           "alias": "Susie Lee",
           "code": "Points:  49",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Nevada"
         },
         {
@@ -3313,7 +3313,7 @@ export default {
           "alias": "Suzan DelBene",
           "code": "Points:  4",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Washington"
         },
         {
@@ -3321,7 +3321,7 @@ export default {
           "alias": "Suzanne Bonamici",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Oregon"
         },
         {
@@ -3329,7 +3329,7 @@ export default {
           "alias": "Sydney Kamlager",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -3337,7 +3337,7 @@ export default {
           "alias": "Sylvia Garcia",
           "code": "Points:  54",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -3345,7 +3345,7 @@ export default {
           "alias": "Ted Lieu",
           "code": "Points:  54",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -3353,7 +3353,7 @@ export default {
           "alias": "Teresa Leger Fernandez",
           "code": "Points:  12",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New Mexico"
         },
         {
@@ -3361,7 +3361,7 @@ export default {
           "alias": "Terri Sewell",
           "code": "Points:  1",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Alabama"
         },
         {
@@ -3369,7 +3369,7 @@ export default {
           "alias": "Thomas Kean Jr.",
           "code": "Points:  37",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "New Jersey"
         },
         {
@@ -3377,7 +3377,7 @@ export default {
           "alias": "Thomas Massie",
           "code": "Points:  24",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kentucky"
         },
         {
@@ -3385,7 +3385,7 @@ export default {
           "alias": "Tim Burchett",
           "code": "Points:  18",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Tennessee"
         },
         {
@@ -3393,7 +3393,7 @@ export default {
           "alias": "Tim Walberg",
           "code": "Points:  30",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Michigan"
         },
         {
@@ -3401,7 +3401,7 @@ export default {
           "alias": "Tom Cole",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Oklahoma"
         },
         {
@@ -3409,7 +3409,7 @@ export default {
           "alias": "Tom Emmer",
           "code": "Points:  6",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Minnesota"
         },
         {
@@ -3417,7 +3417,7 @@ export default {
           "alias": "Tom McClintock",
           "code": "Points:  5",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -3425,7 +3425,7 @@ export default {
           "alias": "Tom Tiffany",
           "code": "Points:  56",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Wisconsin"
         },
         {
@@ -3433,7 +3433,7 @@ export default {
           "alias": "Tony Cárdenas",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "California"
         },
         {
@@ -3441,7 +3441,7 @@ export default {
           "alias": "Tony Gonzales",
           "code": "Points:  48",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -3449,7 +3449,7 @@ export default {
           "alias": "Tracey Mann",
           "code": "Points:  11",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Kansas"
         },
         {
@@ -3457,7 +3457,7 @@ export default {
           "alias": "Trent Kelly",
           "code": "Points:  7",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Mississippi"
         },
         {
@@ -3465,7 +3465,7 @@ export default {
           "alias": "Troy Balderson",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -3473,7 +3473,7 @@ export default {
           "alias": "Troy Carter",
           "code": "Points:  33",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Louisiana"
         },
         {
@@ -3481,7 +3481,7 @@ export default {
           "alias": "Troy Nehls",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -3489,7 +3489,7 @@ export default {
           "alias": "Val Hoyle",
           "code": "Points:  46",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Oregon"
         },
         {
@@ -3497,7 +3497,7 @@ export default {
           "alias": "Valerie Foushee",
           "code": "Points:  39",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -3505,7 +3505,7 @@ export default {
           "alias": "Vern Buchanan",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Florida"
         },
         {
@@ -3513,7 +3513,7 @@ export default {
           "alias": "Veronica Escobar",
           "code": "Points:  57",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -3521,7 +3521,7 @@ export default {
           "alias": "Vicente Gonzalez Jr.",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Texas"
         },
         {
@@ -3529,7 +3529,7 @@ export default {
           "alias": "Victoria Spartz",
           "code": "Points:  53",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Indiana"
         },
         {
@@ -3537,7 +3537,7 @@ export default {
           "alias": "Virginia Foxx",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "North Carolina"
         },
         {
@@ -3545,7 +3545,7 @@ export default {
           "alias": "Warren Davidson",
           "code": "Points:  38",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Ohio"
         },
         {
@@ -3553,7 +3553,7 @@ export default {
           "alias": "Wesley Hunt",
           "code": "Points:  45",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Texas"
         },
         {
@@ -3561,7 +3561,7 @@ export default {
           "alias": "Wiley Nickel",
           "code": "Points:  25",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "North Carolina"
         },
         {
@@ -3569,7 +3569,7 @@ export default {
           "alias": "William Timmons",
           "code": "Points:  51",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "South Carolina"
         },
         {
@@ -3577,7 +3577,7 @@ export default {
           "alias": "Yadira Caraveo",
           "code": "Points:  50",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "Colorado"
         },
         {
@@ -3585,7 +3585,7 @@ export default {
           "alias": "Young Kim",
           "code": "Points:  12",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "California"
         },
         {
@@ -3593,7 +3593,7 @@ export default {
           "alias": "Yvette D. Clarke",
           "code": "Points:  29",
           "corpro": "Available",
-          "frame": "Democratic ",
+          "frame": "Democrat",
           "mech": "New York"
         },
         {
@@ -3601,7 +3601,7 @@ export default {
           "alias": "Zach Nunn",
           "code": "Points:  59",
           "corpro": "Available",
-          "frame": "Republican ",
+          "frame": "Republican",
           "mech": "Iowa"
         },
         {
@@ -3609,7 +3609,7 @@ export default {
           "alias": "Zoe Lofgren",
           "code": "Points:  53",
           "corpro": "Available",
-          "frame": "Democratic",
+          "frame": "Democrat",
           "mech": "California"
         },
         
