@@ -3104,15 +3104,15 @@ export default {
 
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "House of Representatives",
+        "year": "2023",
+        "system": "Work Dojos",
+        "gate": "United States",
+        "ring": "Congress",
+        "headerTitle": "Legislators.Live",
+        "headerSubtitle": "Game of Politics",
+        "subheaderTitle": "118th US Congress",
+        "subheaderSubtitle": "Current Roster",
       },
       "options":{
         "eventsMarkdownPerMission": true
