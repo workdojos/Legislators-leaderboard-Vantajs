@@ -4,11 +4,7 @@
 			<img :src="pilotPortrait" class="pilot-portrait" />
 			<div class="pilot-loadout">
 				<div class="name">
-					<h1>Callsign</h1>
-					<h2>{{ pilot.callsign }}</h2>
-				</div>
-				<div class="name">
-					<h1>Name or Legal Alias</h1>
+					<h1>Name</h1>
 					<h2>{{ pilot.alias }}</h2>
 				</div>
 				<div class="code">{{ pilot.code }}</div>
