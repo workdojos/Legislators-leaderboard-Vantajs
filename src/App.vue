@@ -103,9 +103,8 @@ export default {
 
         {
           "callsign": "Aaron Bean",
-          "alias": "Aaron Bean,
-
-          code": "Points:  17,
+          "alias": "Aaron Bean",
+          code": "Points:  17",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": Available",
           "frame": "Republican ",
