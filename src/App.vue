@@ -165,14 +165,6 @@ export default {
           "mech": "New York"
         },
         {
-          "callsign": "Alma Adams",
-          "alias": "Alma Adams",
-          "code": "Points:  19",
-
-          "frame": "Democrat",
-          "mech": "North Carolina"
-        },
-        {
           "callsign": "Ami Bera",
           "alias": "Ami Bera",
           "code": "Points:  48",
