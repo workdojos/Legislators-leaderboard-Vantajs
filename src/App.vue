@@ -3122,6 +3122,6 @@ export default {
 #app {
   width: 1600px;
   height: 910px;
-  overflow: auto;
+  overflow: visible;
 }
 </style>
