@@ -666,8 +666,8 @@ section .section-header {
     background-color: $secondary;
     border: 1px solid $primary;
     margin-top: -38px;
-    width: 788px;
-    height: 662px;
+    width: 688px;
+    height: 688px;
 
     div.markdown {
       height: 662px;
@@ -677,13 +677,13 @@ section .section-header {
 
 .pilot-modal.portrait {
   .pilot {
-    width: 500px;
+    width: 400px;
   }
 
   img.portrait {
     width: 200px;
     height: 220px;
-    margin-left: 152px;
+    margin-left: 54px;
     margin-top: 200px;
     object-fit: contain;
   }
