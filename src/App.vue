@@ -4,7 +4,7 @@
     <section class="section-container" id="missions" style="width:335px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
-        <h1>Mission Log</h1>
+        <h1>Hot off the Press</h1>
       </div>
       <div class="section-content-container">
         <h3>Current Assignment</h3>
@@ -24,7 +24,7 @@
     <section class="section-container" id="events" style="width:335px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
-        <h1>Events Log</h1>
+        <h1>The Game</h1>
       </div>
       <div class="section-content-container">
         <Markdown :source="events" class="markdown" />
