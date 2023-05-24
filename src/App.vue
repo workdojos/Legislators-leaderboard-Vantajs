@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Begin",
+          "name": "Pick your player.",
           "status": "start"
         },
       ],
@@ -3055,7 +3055,7 @@ export default {
         "headerTitle": "Legislators.Live",
         "headerSubtitle": "Game of Politics",
         "subheaderTitle": "118th US Congress",
-        "subheaderSubtitle": "Current Roster",
+        "subheaderSubtitle": "Leaderboard",
       },
       "options":{
         "eventsMarkdownPerMission": true
