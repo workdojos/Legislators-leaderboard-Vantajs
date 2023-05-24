@@ -373,9 +373,9 @@ section .section-header {
 }
 
 .clipped-medium-backward-pilot {
-  width: 452px;
+  width: 352px;
   clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
-  -webkit-clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 400px 0, 352px 100%, 0% 100%);
 }
 
 .clipped-medium-backward-bio {
