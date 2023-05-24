@@ -498,7 +498,7 @@ section .section-header {
   cursor: pointer;
 
   .pilot-loadout {
-    width: 250px;
+    width: 200px;
     display: flex;
     flex-direction: column;
     row-gap: 0px;
@@ -594,7 +594,7 @@ section .section-header {
 }
 
 .pilot-wrapper:hover .middle {
-  width: 450px;
+  width: 460px;
 }
 
 .pilot-wrapper:active .middle,
@@ -683,7 +683,7 @@ section .section-header {
   img.portrait {
     width: 200px;
     height: 220px;
-    margin-left: 150px;
+    margin-left: 152px;
     margin-top: 200px;
     object-fit: contain;
   }
