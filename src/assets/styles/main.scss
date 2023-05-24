@@ -111,7 +111,7 @@ header {
   animation-fill-mode: forwards;
   background-color: $primary;
   border-color: $primary;
-  width: 650px;
+  width: 660px;
   height: 100%;
   display: inline-flex;
   align-items: center;
@@ -373,7 +373,7 @@ section .section-header {
 }
 
 .clipped-medium-backward-pilot {
-  width: 402px;
+  width: 452px;
   clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
   -webkit-clip-path: polygon(0 0, 400px 0, 452px 100%, 0% 100%);
 }
@@ -666,7 +666,7 @@ section .section-header {
     background-color: $secondary;
     border: 1px solid $primary;
     margin-top: -38px;
-    width: 888px;
+    width: 788px;
     height: 662px;
 
     div.markdown {
