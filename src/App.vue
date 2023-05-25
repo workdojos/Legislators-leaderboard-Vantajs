@@ -2966,6 +2966,6 @@ export default {
 #app {
   width: 1600px;
   height: 910px;
-  overflow: visible;
+  overflow: scroll;
 }
 </style>
