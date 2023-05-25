@@ -277,14 +277,6 @@ export default {
           "mech": "Georgia"
         },
         {
-          "callsign": "Ayanna Pressley",
-          "alias": "Ayanna Pressley",
-          "code": "Points:  50",
-
-          "frame": "Democrat",
-          "mech": "Massachusetts"
-        },
-        {
           "callsign": "Barbara Lee",
           "alias": "Barbara Lee",
           "code": "Points:  5",
@@ -347,22 +339,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "Illinois"
-        },
-        {
-          "callsign": "Bill Huizenga",
-          "alias": "Bill Huizenga",
-          "code": "Points:  57",
-
-          "frame": "Republican",
-          "mech": "Michigan"
-        },
-        {
-          "callsign": "Bill Johnson",
-          "alias": "Bill Johnson",
-          "code": "Points:  38",
-
-          "frame": "Republican",
-          "mech": "Ohio"
         },
         {
           "callsign": "Bill Keating",
@@ -736,14 +712,6 @@ export default {
           "mech": "Arizona"
         },
         {
-          "callsign": "Debbie Wasserman Schultz",
-          "alias": "Debbie Wasserman Schultz",
-          "code": "Points:  29",
-
-          "frame": "Democrat",
-          "mech": "Florida"
-        },
-        {
           "callsign": "Deborah Ross",
           "alias": "Deborah Ross",
           "code": "Points:  36",
@@ -833,14 +801,6 @@ export default {
           "mech": "California"
         },
         {
-          "callsign": "Doug Lamborn",
-          "alias": "Doug Lamborn",
-          "code": "Points:  55",
-
-          "frame": "Republican",
-          "mech": "Colorado"
-        },
-        {
           "callsign": "Drew Ferguson",
           "alias": "Drew Ferguson",
           "code": "Points:  42",
@@ -879,14 +839,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "Hawaii"
-        },
-        {
-          "callsign": "Eli Crane",
-          "alias": "Eli Crane",
-          "code": "Points:  33",
-
-          "frame": "Republican",
-          "mech": "Arizona"
         },
         {
           "callsign": "Elise Stefanik",
@@ -943,14 +895,6 @@ export default {
 
           "frame": "Republican",
           "mech": "Indiana"
-        },
-        {
-          "callsign": "Frank Lucas",
-          "alias": "Frank Lucas",
-          "code": "Points:  44",
-
-          "frame": "Republican",
-          "mech": "Oklahoma"
         },
         {
           "callsign": "Frank Mrvan",
@@ -1073,14 +1017,6 @@ export default {
           "mech": "Wisconsin"
         },
         {
-          "callsign": "Hakeem Jeffries",
-          "alias": "Hakeem Jeffries",
-          "code": "Points:  47",
-
-          "frame": "Democrat",
-          "mech": "New York"
-        },
-        {
           "callsign": "Hal Rogers",
           "alias": "Hal Rogers",
           "code": "Points:  25",
@@ -1151,14 +1087,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "Connecticut"
-        },
-        {
-          "callsign": "Jake Auchincloss",
-          "alias": "Jake Auchincloss",
-          "code": "Points:  52",
-
-          "frame": "Democrat",
-          "mech": "Massachusetts"
         },
         {
           "callsign": "Jake Ellzey",
@@ -1417,22 +1345,6 @@ export default {
           "mech": "South Carolina"
         },
         {
-          "callsign": "John Carter",
-          "alias": "John Carter",
-          "code": "Points:  11",
-
-          "frame": "Republican",
-          "mech": "Texas"
-        },
-        {
-          "callsign": "John Curtis",
-          "alias": "John Curtis",
-          "code": "Points:  52",
-
-          "frame": "Republican",
-          "mech": "Utah"
-        },
-        {
           "callsign": "John Duarte",
           "alias": "John Duarte",
           "code": "Points:  52",
@@ -1639,14 +1551,6 @@ export default {
 
           "frame": "Republican",
           "mech": "North Dakota"
-        },
-        {
-          "callsign": "Ken Buck",
-          "alias": "Ken Buck",
-          "code": "Points:  2",
-
-          "frame": "Republican",
-          "mech": "Colorado"
         },
         {
           "callsign": "Ken Calvert",
@@ -1921,14 +1825,6 @@ export default {
           "mech": "Florida"
         },
         {
-          "callsign": "Matt Rosendale",
-          "alias": "Matt Rosendale",
-          "code": "Points:  20",
-
-          "frame": "Republican",
-          "mech": "Montana"
-        },
-        {
           "callsign": "Max Miller",
           "alias": "Max Miller",
           "code": "Points:  57",
@@ -1943,14 +1839,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "California"
-        },
-        {
-          "callsign": "Michael Cloud",
-          "alias": "Michael Cloud",
-          "code": "Points:  10",
-
-          "frame": "Republican",
-          "mech": "Texas"
         },
         {
           "callsign": "Michael Guest",
@@ -1983,14 +1871,6 @@ export default {
 
           "frame": "Republican",
           "mech": "Minnesota"
-        },
-        {
-          "callsign": "Michelle Steel",
-          "alias": "Michelle Steel",
-          "code": "Points:  15",
-
-          "frame": "Republican",
-          "mech": "California"
         },
         {
           "callsign": "Mike Bost",
@@ -2135,14 +2015,6 @@ export default {
 
           "frame": "Republican",
           "mech": "South Carolina"
-        },
-        {
-          "callsign": "Nancy Pelosi",
-          "alias": "Nancy Pelosi",
-          "code": "Points:  28",
-
-          "frame": "Democrat",
-          "mech": "California"
         },
         {
           "callsign": "Nanette Barragán",
@@ -2769,14 +2641,6 @@ export default {
           "mech": "Kansas"
         },
         {
-          "callsign": "Trent Kelly",
-          "alias": "Trent Kelly",
-          "code": "Points:  7",
-
-          "frame": "Republican",
-          "mech": "Mississippi"
-        },
-        {
           "callsign": "Troy Balderson",
           "alias": "Troy Balderson",
           "code": "Points:  33",
@@ -2807,14 +2671,6 @@ export default {
 
           "frame": "Democrat",
           "mech": "Oregon"
-        },
-        {
-          "callsign": "Valerie Foushee",
-          "alias": "Valerie Foushee",
-          "code": "Points:  39",
-
-          "frame": "Democrat",
-          "mech": "North Carolina"
         },
         {
           "callsign": "Vern Buchanan",
@@ -2872,22 +2728,7 @@ export default {
           "frame": "Republican",
           "mech": "South Carolina"
         },
-        {
-          "callsign": "Yadira Caraveo",
-          "alias": "Yadira Caraveo",
-          "code": "Points:  50",
 
-          "frame": "Democrat",
-          "mech": "Colorado"
-        },
-        {
-          "callsign": "Zoe Lofgren",
-          "alias": "Zoe Lofgren",
-          "code": "Points:  53",
-
-          "frame": "Democrat",
-          "mech": "California"
-        },
 
       ],
       "header": {
@@ -2966,6 +2807,6 @@ export default {
 #app {
   width: 1600px;
   height: 910px;
-  overflow: auto;
+  overflow: hidden;
 }
 </style>
